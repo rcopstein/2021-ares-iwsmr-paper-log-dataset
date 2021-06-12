@@ -1,0 +1,2000 @@
+Jun  9 06:06:20 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+Jun  9 06:06:20 combo kernel:   DMA zone: 4096 pages, LIFO batch:1
+Jun  9 06:06:20 combo kernel: Built 1 zonelists
+Jun  9 06:06:20 combo irqbalance: irqbalance startup succeeded
+Jun  9 06:06:20 combo kernel: Using tsc for high-res timesource
+Jun  9 06:06:21 combo kernel: Intel machine check reporting enabled on CPU#0.
+Jun  9 06:06:22 combo sdpd[1681]: sdpd v1.5 started
+Jun  9 06:06:24 combo kernel: Using cfq io scheduler
+Jun  9 06:06:24 combo smartd[1757]: smartd has fork()ed into background mode. New PID=1757.
+Jun  9 06:06:24 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Jun  9 06:06:24 combo kernel: drivers/usb/input/hid-core.c: v2.0:USB HID core driver
+Jun  9 06:06:27 combo kernel: SELinux:  Disabled at runtime.
+Jun  9 06:06:34 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun  9 06:06:34 combo kernel: Bluetooth: L2CAP ver 2.1
+Jun  9 06:06:34 combo kernel: Bluetooth: RFCOMM socket layer initialized
+Jun  9 06:06:46 combo IIim: htt startup succeeded
+Jun  9 06:07:23 combo rsyncd[2360]: rsyncd version 2.6.2 starting, listening on port 873
+Jun  9 06:07:26 combo udev[2566]: creating device node '/udev/vcsa5'
+Jun  9 06:07:26 combo udev[2590]: removing device node '/udev/vcs2'
+Jun  9 06:10:35 combo ntpd[2296]: kernel time sync disabled 0041
+Jun  9 06:11:41 combo ntpd[2296]: kernel time sync enabled 0001
+Jun 10 04:03:02 combo logrotate: ALERT exited abnormally with [1]
+Jun 10 11:31:45 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Jun 10 11:31:47 combo kernel: VFS: Mounted root (ext2 filesystem).
+Jun 10 11:31:47 combo smartd[1786]: Device: /dev/hda, found in smartd database.
+Jun 10 11:31:48 combo kernel: Freeing unused kernel memory: 144k freed
+Jun 10 11:31:48 combo kernel: Disabled Privacy Extensions on device 022db720(lo)
+Jun 10 11:31:50 combo kernel: Adding 262072k swap on /dev/hda3.  Priority:-1 extents:1
+Jun 10 11:31:54 combo kernel: Bluetooth: HCI socket layer initialized
+Jun 10 11:32:00 combo sshd:  succeeded
+Jun 10 11:32:03 combo xinetd[2034]: Started working: 30 available services
+Jun 10 11:32:05 combo privoxy: Jun 10 11:32:05 Privoxy(-150769536) Info: loading configuration file '/etc/privoxy/config':
+Jun 10 11:32:06 combo gpm[2094]: Started gpm successfully. Entered daemon mode.
+Jun 10 15:32:34 combo named[2306]: loading configuration from '/etc/named.conf'
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface lo, 127.0.0.1#53
+Jun 10 15:32:43 combo named[2306]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jun 10 11:32:48 combo udev[2581]: creating device node '/udev/vcsa3'
+Jun 10 11:32:49 combo udev[2701]: creating device node '/udev/vcsa5'
+Jun 10 11:32:50 combo udev[2706]: creating device node '/udev/vcsa4'
+Jun 11 03:28:23 combo ftpd[4311]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005
+Jun 11 03:28:23 combo ftpd[4319]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005
+Jun 11 09:46:01 combo sshd(pam_unix)[6478]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:21 combo sshd(pam_unix)[6490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:28 combo sshd(pam_unix)[6494]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:45 combo sshd(pam_unix)[6510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 12 00:07:45 combo ftpd[7713]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005
+Jun 12 01:12:14 combo sshd(pam_unix)[7826]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 04:04:09 combo cups: cupsd shutdown succeeded
+Jun 12 04:10:11 combo su(pam_unix)[9084]: session opened for user news by (uid=0)
+Jun 12 14:10:42 combo sshd(pam_unix)[13109]: check pass; user unknown
+Jun 12 14:10:44 combo sshd(pam_unix)[13111]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.38.14.205
+Jun 12 14:10:52 combo sshd(pam_unix)[13126]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.38.14.205
+Jun 13 02:01:27 combo ftpd[14120]: connection from 61.218.67.60 (mail.net-star.com.tw) at Mon Jun 13 02:01:27 2005
+Jun 13 02:01:27 combo ftpd[14121]: connection from 61.218.67.60 (mail.net-star.com.tw) at Mon Jun 13 02:01:27 2005
+Jun 13 02:01:27 combo ftpd[14113]: connection from 61.218.67.60 (mail.net-star.com.tw) at Mon Jun 13 02:01:27 2005
+Jun 13 02:01:28 combo ftpd[14127]: connection from 61.218.67.60 (mail.net-star.com.tw) at Mon Jun 13 02:01:28 2005
+Jun 13 05:27:30 combo gdm(pam_unix)[2803]: bad username []
+Jun 13 09:09:44 combo ftpd[16375]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005
+Jun 13 09:09:44 combo ftpd[16374]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005
+Jun 13 09:09:44 combo ftpd[16371]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005
+Jun 13 09:09:44 combo ftpd[16380]: connection from 212.5.120.141 (host-141.STSK.macomnet.net) at Mon Jun 13 09:09:44 2005
+Jun 13 11:55:08 combo rpc.statd[1636]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 13 12:49:32 combo ftpd[16733]: connection from 65.35.73.251 (251-73.35-65.tampabay.res.rr.com) at Mon Jun 13 12:49:32 2005
+Jun 13 12:49:32 combo ftpd[16750]: connection from 65.35.73.251 (251-73.35-65.tampabay.res.rr.com) at Mon Jun 13 12:49:32 2005
+Jun 13 15:03:39 combo sshd(pam_unix)[16960]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jun 13 15:03:41 combo sshd(pam_unix)[16965]: check pass; user unknown
+Jun 13 15:03:41 combo sshd(pam_unix)[16966]: check pass; user unknown
+Jun 13 15:10:30 combo sshd(pam_unix)[16997]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr  user=root
+Jun 14 11:56:36 combo sshd(pam_unix)[19594]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.12.249  user=root
+Jun 14 15:14:53 combo sshd(pam_unix)[19913]: check pass; user unknown
+Jun 14 15:14:55 combo sshd(pam_unix)[19925]: check pass; user unknown
+Jun 14 15:14:57 combo sshd(pam_unix)[19928]: check pass; user unknown
+Jun 15 02:04:59 combo sshd(pam_unix)[20883]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0)
+Jun 15 04:06:19 combo su(pam_unix)[21416]: session closed for user cyrus
+Jun 15 12:12:34 combo sshd(pam_unix)[23404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jun 15 12:12:34 combo sshd(pam_unix)[23407]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23412]: check pass; user unknown
+Jun 15 12:13:19 combo sshd(pam_unix)[23414]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jun 15 14:53:32 combo sshd(pam_unix)[23664]: check pass; user unknown
+Jun 15 14:53:34 combo sshd(pam_unix)[23669]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24138]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24137]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+Jun 17 04:09:43 combo su(pam_unix)[29190]: session opened for user news by (uid=0)
+Jun 17 07:07:00 combo ftpd[29506]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 20:55:07 combo ftpd[30759]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005
+Jun 18 01:30:59 combo sshd(pam_unix)[31201]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31201]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+Jun 18 01:30:59 combo sshd(pam_unix)[31199]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+Jun 18 02:08:11 combo ftpd[31279]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+Jun 18 02:08:11 combo ftpd[31283]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+Jun 19 04:09:11 combo syslogd 1.4.1: restart.
+Jun 20 09:20:05 combo sshd(pam_unix)[10039]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:08 combo sshd(pam_unix)[10051]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 22 03:18:02 combo sshd(pam_unix)[16230]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 04:11:42 combo su(pam_unix)[17037]: session closed for user news
+Jun 22 04:30:55 combo sshd(pam_unix)[17135]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+Jun 22 13:16:30 combo ftpd[17876]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+Jun 22 13:16:31 combo ftpd[17883]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+Jun 22 13:16:31 combo ftpd[17891]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+Jun 22 13:16:32 combo ftpd[17894]: connection from 210.245.165.136 () at Wed Jun 22 13:16:32 2005
+Jun 23 23:30:04 combo sshd(pam_unix)[26193]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 24 04:11:12 combo su(pam_unix)[27311]: session opened for user news by (uid=0)
+Jun 25 04:41:51 combo sshd(pam_unix)[31028]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 09:20:24 combo ftpd[31476]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 19:25:30 combo ftpd[32328]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32329]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 27 04:02:48 combo su(pam_unix)[7031]: session closed for user cyrus
+Jun 27 08:05:37 combo sshd(pam_unix)[8660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 28 04:09:00 combo su(pam_unix)[11106]: session opened for user news by (uid=0)
+Jun 28 08:10:26 combo sshd(pam_unix)[11514]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:28 combo sshd(pam_unix)[11512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 21:42:46 combo sshd(pam_unix)[12752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+Jun 29 03:22:22 combo ftpd[13252]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+Jun 29 03:22:22 combo ftpd[13255]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+Jun 29 03:22:22 combo ftpd[13263]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+Jun 29 10:48:15 combo ftpd[15559]: connection from 208.62.55.75 () at Wed Jun 29 10:48:15 2005
+Jun 29 12:11:55 combo sshd(pam_unix)[15694]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 14:44:35 combo ftpd[15921]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+Jun 30 04:03:42 combo su(pam_unix)[17407]: session closed for user cyrus
+Jun 30 12:48:38 combo sshd(pam_unix)[18559]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+Jun 30 12:48:41 combo sshd(pam_unix)[18550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+Jun 30 12:48:41 combo sshd(pam_unix)[18547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+Jun 30 12:48:41 combo sshd(pam_unix)[18545]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+Jun 30 19:03:07 combo sshd(pam_unix)[19097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 20:16:26 combo sshd(pam_unix)[19209]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:53:04 combo klogind[19287]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+Jun 30 20:53:04 combo klogind[19287]: Kerberos authentication failed
+Jun 30 20:53:04 combo klogind[19274]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Jun 30 20:53:06 combo klogind[19267]: Kerberos authentication failed
+Jun 30 20:53:06 combo klogind[19280]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Jun 30 22:16:32 combo sshd(pam_unix)[19433]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19439]: session opened for user test by (uid=509)
+Jul  1 07:57:30 combo ftpd[21950]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+Jul  1 07:57:30 combo ftpd[21947]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+Jul  1 10:56:41 combo sshd(pam_unix)[22269]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  2 01:41:33 combo sshd(pam_unix)[23544]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23546]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23546]: session closed for user test
+Jul  2 04:09:53 combo su(pam_unix)[24511]: session opened for user news by (uid=0)
+Jul  2 04:15:33 combo sshd(pam_unix)[24587]: check pass; user unknown
+Jul  2 04:15:33 combo sshd(pam_unix)[24590]: check pass; user unknown
+Jul  3 04:07:49 combo cups: cupsd shutdown succeeded
+Jul  3 10:05:25 combo ftpd[32053]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+Jul  3 10:05:25 combo ftpd[32056]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+Jul  4 09:33:09 combo sshd(pam_unix)[2543]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul  4 12:52:44 combo ftpd[2838]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+Jul  4 12:52:44 combo ftpd[2837]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+Jul  4 19:15:49 combo sshd(pam_unix)[3382]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  5 13:36:28 combo sshd(pam_unix)[6552]: check pass; user unknown
+Jul  5 13:52:23 combo ftpd[6594]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+Jul  6 02:22:32 combo sshd(pam_unix)[7702]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  9 11:35:59 combo ftpd[23045]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+Jul  9 12:16:49 combo ftpd[23140]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+Jul  9 12:16:49 combo ftpd[23141]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+Jul  9 12:16:52 combo ftpd[23157]: connection from 211.167.68.59 () at Sat Jul  9 12:16:52 2005
+Jul  9 12:59:45 combo ftpd[23223]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005
+Jul  9 22:53:19 combo ftpd[24087]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005
+Jul 10 03:55:15 combo ftpd[24525]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+Jul 10 03:55:15 combo ftpd[24530]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+Jul 10 13:17:22 combo ftpd[30285]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+Jul 10 16:01:48 combo sshd(pam_unix)[30544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:59 combo sshd(pam_unix)[30560]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30566]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30604]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:36 combo sshd(pam_unix)[30618]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30686]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:33:02 combo sshd(pam_unix)[30734]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 11 04:08:38 combo su(pam_unix)[32608]: session closed for user news
+Jul 11 17:58:16 combo sshd(pam_unix)[1327]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:21 combo sshd(pam_unix)[1335]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 12 06:09:45 combo sshd(pam_unix)[4058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 14 15:00:22 combo sshd(pam_unix)[11719]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 15 23:42:44 combo ftpd[15342]: connection from 211.107.232.1 () at Fri Jul 15 23:42:44 2005
+Jul 16 08:14:07 combo ftpd[17681]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005
+Jul 16 08:14:07 combo ftpd[17685]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005
+Jul 16 08:14:07 combo ftpd[17674]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005
+Jul 17 04:06:32 combo ftpd[19675]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 04:06:32 2005
+Jul 17 06:13:37 combo ftpd[23576]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005
+Jul 17 06:14:36 combo ftpd[23582]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005
+Jul 17 06:14:36 combo ftpd[23588]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005
+Jul 17 08:06:12 combo ftpd[23778]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005
+Jul 17 08:06:14 combo ftpd[23799]: connection from 218.146.61.230 () at Sun Jul 17 08:06:14 2005
+Jul 17 09:44:07 combo ftpd[23932]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005
+Jul 17 12:30:42 combo ftpd[24194]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:42 2005
+Jul 17 12:30:46 combo ftpd[24197]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:46 2005
+Jul 17 12:30:59 combo ftpd[24210]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:59 2005
+Jul 17 14:02:47 combo ftpd[24360]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:47 2005
+Jul 17 15:09:16 combo ftpd[24484]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005
+Jul 17 21:23:20 combo ftpd[25030]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005
+Jul 17 21:23:20 combo ftpd[25043]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005
+Jul 17 23:21:54 combo ftpd[25235]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005
+Jul 18 03:26:49 combo ftpd[25639]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005
+Jul 18 03:26:49 combo ftpd[25645]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005
+Jul 18 03:26:49 combo ftpd[25642]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005
+Jul 18 03:26:49 combo ftpd[25646]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005
+Jul 18 23:01:25 combo sshd(pam_unix)[28977]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28986]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28991]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+Jul 19 07:35:41 combo sshd(pam_unix)[30501]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30504]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 20 23:37:40 combo sshd(pam_unix)[3308]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+Jul 21 09:04:41 combo ftpd[5030]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005
+Jul 21 09:04:41 combo ftpd[5029]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005
+Jul 21 09:04:41 combo ftpd[5037]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005
+Jul 22 04:07:47 combo su(pam_unix)[7106]: session closed for user cyrus
+Jul 22 09:27:24 combo ftpd[12293]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005
+Jul 22 09:27:24 combo ftpd[12289]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005
+Jul 22 19:29:09 combo ftpd[13151]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005
+Jul 22 19:29:09 combo ftpd[13157]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005
+Jul 22 19:29:09 combo ftpd[13161]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005
+Jul 24 02:38:22 combo ftpd[16792]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005
+Jul 24 02:38:22 combo ftpd[16779]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005
+Jul 24 02:38:22 combo ftpd[16772]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005
+Jul 24 04:20:26 combo cups: cupsd startup succeeded
+Jul 24 08:31:59 combo sshd(pam_unix)[22191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 13:46:32 combo ftpd[22659]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005
+Jul 25 04:09:32 combo su(pam_unix)[24683]: session opened for user news by (uid=0)
+Jul 25 06:39:18 combo ftpd[24960]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005
+Jul 25 06:39:18 combo ftpd[24961]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005
+Jul 25 16:29:20 combo named[2306]: notify question section contains no SOA
+Jul 25 23:24:09 combo ftpd[26469]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005
+Jul 26 05:47:51 combo ftpd[28708]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005
+Jul 26 07:02:45 combo sshd(pam_unix)[28848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:45 combo sshd(pam_unix)[28872]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 27 14:41:57 combo kernel: BIOS-provided physical RAM map:
+Jul 27 14:41:58 combo kernel: Security Scaffold v1.0.0 initialized
+Jul 27 14:41:58 combo kernel: Failure registering capabilities with the kernel
+Jul 27 14:41:58 combo kernel: Enabling fast FPU save and restore... done.
+Jul 27 14:41:58 combo kernel: usbcore: registered new driver usbfs
+Jul 27 14:42:00 combo kernel: Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled
+Jul 27 14:42:00 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Jul 27 14:42:00 combo kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Jul 27 14:42:00 combo kernel: TCP: Hash tables configured (established 8192 bind 16384)
+Jul 27 14:42:01 combo kernel: NET: Registered protocol family 1
+Jul 27 14:42:01 combo kernel: md: Autodetecting RAID arrays.
+Jul 27 14:42:02 combo rc: Starting hpoj:  succeeded
+Jul 27 14:42:07 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jul 27 14:42:09 combo kernel: NET: Registered protocol family 31
+Jul 27 14:42:10 combo kernel: Bluetooth: L2CAP socket layer initialized
+Jul 27 14:42:20 combo gpm[2076]: *** info [mice.c(1766)]:
+Jul 27 14:42:25 combo readahead: Starting background readahead:
+Jul 27 14:42:48 combo named: named startup succeeded
+Jul 27 18:42:48 combo named[2288]: loading configuration from '/etc/named.conf'
+Jul 27 14:43:01 combo udev[2592]: creating device node '/udev/vcsa6'
+Jul 27 14:43:01 combo udev[2622]: removing device node '/udev/vcsa6'
+Jul 27 14:43:01 combo udev[2627]: removing device node '/udev/vcs2'
+Jul 27 14:43:01 combo udev[2590]: creating device node '/udev/vcs6'
+Jul 27 14:43:03 combo udev[2716]: creating device node '/udev/vcs4'
+Jul 27 14:43:03 combo udev[2733]: removing device node '/udev/vcs6'
+Jul 28 04:08:40 combo su(pam_unix)[4310]: session opened for user cyrus by (uid=0)
+Jul 29 04:08:40 combo logrotate: ALERT exited abnormally with [1]
+Jul 30 04:08:39 combo su(pam_unix)[10613]: session opened for user cyrus by (uid=0)
+Jul 30 04:08:40 combo logrotate: ALERT exited abnormally with [1]
+Aug  1 04:03:02 combo su(pam_unix)[20159]: session closed for user cyrus
+Aug  2 00:41:01 combo ftpd[23235]: connection from 202.82.200.188 () at Tue Aug  2 00:41:01 2005
+Aug  2 04:09:17 combo su(pam_unix)[24248]: session opened for user news by (uid=0)
+Aug  2 05:53:20 combo sshd(pam_unix)[24450]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Aug  2 05:53:27 combo sshd(pam_unix)[24460]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Aug  2 05:53:28 combo sshd(pam_unix)[24462]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Aug  2 07:46:28 combo mysqld: Stopping MySQL:  succeeded
+Aug  2 07:53:08 combo sshd(pam_unix)[24869]: session opened for user root by (uid=0)
+Aug  2 07:53:16 combo sshd(pam_unix)[24869]: session closed for user root
+Aug  2 11:24:59 combo sshd(pam_unix)[25518]: check pass; user unknown
+Aug  2 19:35:25 combo sshd(pam_unix)[26213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=stat.62-123-40-155.atlanet.it
+Aug  3 06:20:34 combo ftpd[28823]: connection from 211.107.232.1 () at Wed Aug  3 06:20:34 2005
+Aug  4 04:09:30 combo su(pam_unix)[31380]: session opened for user news by (uid=0)
+Aug  4 07:00:29 combo sshd(pam_unix)[31678]: check pass; user unknown
+Aug  5 05:01:30 combo login[25160]: FAILED LOGIN 2 FROM (null) FOR , Authentication failure
+Aug  5 05:02:30 combo udev[2895]: removing device node '/udev/vcs2'
+Aug  5 12:03:56 combo sshd(pam_unix)[3501]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.96.242.5  user=root
+Aug  6 07:23:59 combo ftpd[10153]: connection from 211.107.232.1 () at Sat Aug  6 07:23:59 2005
+Aug  7 06:52:07 combo ftpd[16260]: connection from 82.53.83.190 (host190-83.pool8253.interbusiness.it) at Sun Aug  7 06:52:07 2005
+Aug  7 08:59:26 combo sshd(pam_unix)[16458]: 7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Aug  7 08:59:26 combo sshd(pam_unix)[16458]: service(sshd) ignoring max retries; 8 > 3
+Aug  7 11:33:59 combo telnetd[16729]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug  7 11:34:03 combo telnetd[16744]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug  7 21:36:25 combo ftpd[17591]: connection from 80.139.83.186 (p508B53BA.dip.t-dialin.net) at Sun Aug  7 21:36:25 2005
+Aug  7 21:36:25 combo ftpd[17592]: connection from 80.139.83.186 (p508B53BA.dip.t-dialin.net) at Sun Aug  7 21:36:25 2005
+Aug  7 21:36:25 combo ftpd[17598]: connection from 80.139.83.186 (p508B53BA.dip.t-dialin.net) at Sun Aug  7 21:36:25 2005
+Aug  8 00:09:51 combo sshd(pam_unix)[17834]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Aug  8 00:10:01 combo sshd(pam_unix)[17836]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Aug  8 00:10:41 combo sshd(pam_unix)[17856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Aug  8 04:02:54 combo su(pam_unix)[18528]: session opened for user cyrus by (uid=0)
+Aug  8 23:19:21 combo sshd(pam_unix)[21617]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.9.185  user=root
+Aug  9 09:12:51 combo ftpd[23225]: connection from 210.202.115.220 (NK210-202-115-220.adsl.static.ebtnet.net) at Tue Aug  9 09:12:51 2005
+Aug  9 19:19:54 combo ftpd[24110]: connection from 221.243.161.206 () at Tue Aug  9 19:19:54 2005
+Aug  9 19:19:54 combo ftpd[24127]: connection from 221.243.161.206 () at Tue Aug  9 19:19:54 2005
+Aug  9 21:09:02 combo sshd(pam_unix)[24300]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Aug 11 10:42:25 combo sshd(pam_unix)[29901]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=147.163.65.158  user=amanda
+Aug 12 10:01:27 combo udev[1096]: removing device node '/udev/vcs2'
+Aug 13 11:45:26 combo ftpd[4145]: connection from 61.199.220.226 (ark.dbstream.co.jp) at Sat Aug 13 11:45:26 2005
+Aug 13 11:45:26 combo ftpd[4133]: connection from 61.199.220.226 (ark.dbstream.co.jp) at Sat Aug 13 11:45:26 2005
+Aug 16 03:14:00 combo sshd(pam_unix)[15188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 17 03:39:34 combo ftpd[18897]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005
+Aug 19 00:14:18 combo ftpd[25052]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005
+Aug 19 00:14:24 combo ftpd[25063]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:24 2005
+Aug 19 00:14:25 combo ftpd[25067]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:25 2005
+Aug 21 04:03:37 combo cups: cupsd shutdown succeeded
+Aug 22 03:48:23 combo ftpd[13760]: connection from 65.162.107.196 (host-65-162-107-196.apid.com) at Mon Aug 22 03:48:23 2005
+Aug 22 03:48:23 combo ftpd[13755]: connection from 65.162.107.196 (host-65-162-107-196.apid.com) at Mon Aug 22 03:48:23 2005
+Aug 22 04:03:00 combo su(pam_unix)[14139]: session closed for user cyrus
+Aug 22 04:03:01 combo logrotate: ALERT exited abnormally with [1]
+Aug 22 14:42:43 combo sshd(pam_unix)[15476]: check pass; user unknown
+Aug 22 14:42:43 combo sshd(pam_unix)[15478]: check pass; user unknown
+Aug 22 14:42:43 combo sshd(pam_unix)[15488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=srv2.alfahost.nl
+Aug 22 14:42:43 combo sshd(pam_unix)[15489]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=srv2.alfahost.nl
+Aug 23 08:28:09 combo ftpd[18680]: connection from 82.55.115.181 (host181-115.pool8255.interbusiness.it) at Tue Aug 23 08:28:09 2005
+Aug 23 08:28:09 combo ftpd[18671]: connection from 82.55.115.181 (host181-115.pool8255.interbusiness.it) at Tue Aug 23 08:28:09 2005
+Aug 23 08:28:09 combo ftpd[18669]: connection from 82.55.115.181 (host181-115.pool8255.interbusiness.it) at Tue Aug 23 08:28:09 2005
+Aug 23 08:28:09 combo ftpd[18670]: connection from 82.55.115.181 (host181-115.pool8255.interbusiness.it) at Tue Aug 23 08:28:09 2005
+Aug 23 12:41:40 combo sshd(pam_unix)[19058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.3.13
+Aug 24 11:25:58 combo sshd(pam_unix)[21971]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Aug 24 11:26:05 combo sshd(pam_unix)[21985]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Aug 24 11:26:05 combo sshd(pam_unix)[21983]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Aug 25 07:50:54 combo ftpd[25369]: connection from 211.72.151.162 () at Thu Aug 25 07:50:54 2005
+Aug 25 07:50:54 combo ftpd[25375]: connection from 211.72.151.162 () at Thu Aug 25 07:50:54 2005
+Aug 25 18:30:36 combo sshd(pam_unix)[26304]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.99.254.124  user=root
+Aug 27 02:31:57 combo sshd(pam_unix)[21258]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.104.78  user=root
+Aug 27 05:08:13 combo sshd(pam_unix)[23097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Aug 27 13:03:28 combo sshd(pam_unix)[23782]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=s010600112fb9bd72.vf.shawcable.net
+Aug 27 13:40:39 combo ftpd[23867]: connection from 218.146.61.230 () at Sat Aug 27 13:40:39 2005
+Aug 27 18:15:14 combo ftpd[24334]: connection from 62.241.71.44 (ip-62-241-71-44.evc.net) at Sat Aug 27 18:15:14 2005
+Aug 27 18:15:18 combo ftpd[24357]: connection from 62.241.71.44 (ip-62-241-71-44.evc.net) at Sat Aug 27 18:15:18 2005
+Aug 27 18:15:18 combo ftpd[24358]: connection from 62.241.71.44 (ip-62-241-71-44.evc.net) at Sat Aug 27 18:15:18 2005
+Aug 27 18:30:17 combo ftpd[24346]: User unknown timed out after 900 seconds at Sat Aug 27 18:30:17 2005
+Aug 28 02:06:11 combo ftpd[25039]: connection from 62.241.71.44 (ip-62-241-71-44.evc.net) at Sun Aug 28 02:06:11 2005
+Aug 28 02:06:42 combo ftpd[25055]: connection from 62.241.71.44 (ip-62-241-71-44.evc.net) at Sun Aug 28 02:06:42 2005
+Aug 28 04:10:25 combo su(pam_unix)[25614]: session closed for user cyrus
+Aug 28 04:10:37 combo logrotate: ALERT exited abnormally with [1]
+Aug 28 09:59:33 combo ftpd[29803]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005
+Aug 28 09:59:33 combo ftpd[29799]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005
+Aug 28 09:59:33 combo ftpd[29793]: connection from 200.247.141.95 (141095.fln.virtua.com.br) at Sun Aug 28 09:59:33 2005
+Aug 29 04:03:48 combo logrotate: ALERT exited abnormally with [1]
+Aug 29 07:22:37 combo sshd(pam_unix)[815]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 07:22:39 combo sshd(pam_unix)[823]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 07:23:17 combo sshd(pam_unix)[890]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 07:23:28 combo sshd(pam_unix)[898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 07:23:29 combo sshd(pam_unix)[911]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 07:23:40 combo sshd(pam_unix)[920]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 29 23:53:08 combo sshd(pam_unix)[2385]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw
+Aug 31 05:33:13 combo ftpd[7329]: connection from 211.234.84.17 () at Wed Aug 31 05:33:13 2005
+Aug 31 13:28:05 combo sshd(pam_unix)[8028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Aug 31 19:10:45 combo sshd(pam_unix)[8512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Sep  2 01:45:39 combo sshd(pam_unix)[11876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.179.61.130  user=root
+Sep  2 04:03:28 combo logrotate: ALERT exited abnormally with [1]
+Sep  2 04:09:46 combo su(pam_unix)[13629]: session opened for user news by (uid=0)
+Sep  2 10:54:05 combo sshd(pam_unix)[14259]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Sep  2 20:49:05 combo ftpd[15167]: connection from 211.22.147.19 () at Fri Sep  2 20:49:05 2005
+Sep  4 04:03:57 combo su(pam_unix)[18971]: session closed for user cyrus
+Sep  4 04:04:04 combo cups: cupsd startup succeeded
+Sep  4 10:31:03 combo sshd(pam_unix)[27560]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.74.86.1
+Sep  4 10:31:03 combo sshd(pam_unix)[27567]: check pass; user unknown
+Sep  4 10:31:03 combo sshd(pam_unix)[27564]: check pass; user unknown
+Sep  4 10:31:03 combo sshd(pam_unix)[27564]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.74.86.1
+Sep  4 14:09:05 combo sshd(pam_unix)[27908]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Sep  4 15:00:47 combo sshd(pam_unix)[28049]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Sep  4 15:01:12 combo sshd(pam_unix)[28076]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Sep  4 17:12:20 combo sshd(pam_unix)[28288]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Sep  4 17:12:20 combo sshd(pam_unix)[28290]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Sep  4 19:18:59 combo ftpd[28467]: connection from 83.114.226.68 (ASte-Genev-Bois-152-1-28-68.w83-114.abo.wanadoo.fr) at Sun Sep  4 19:18:59 2005
+Sep  4 19:18:59 combo ftpd[28475]: connection from 83.114.226.68 (ASte-Genev-Bois-152-1-28-68.w83-114.abo.wanadoo.fr) at Sun Sep  4 19:18:59 2005
+Sep  4 19:19:00 combo ftpd[28484]: connection from 83.114.226.68 (ASte-Genev-Bois-152-1-28-68.w83-114.abo.wanadoo.fr) at Sun Sep  4 19:19:00 2005
+Sep  4 19:19:00 combo ftpd[28485]: connection from 83.114.226.68 (ASte-Genev-Bois-152-1-28-68.w83-114.abo.wanadoo.fr) at Sun Sep  4 19:19:00 2005
+Sep  5 04:08:55 combo su(pam_unix)[29729]: session opened for user cyrus by (uid=0)
+Sep  5 15:22:17 combo ftpd[31105]: connection from 222.90.77.158 () at Mon Sep  5 15:22:17 2005
+Sep  5 15:22:17 combo ftpd[31106]: connection from 222.90.77.158 () at Mon Sep  5 15:22:17 2005
+Sep  6 12:45:46 combo ftpd[2150]: connection from 213.169.189.194 (ip-189-194.evhr.net) at Tue Sep  6 12:45:46 2005
+Sep  7 10:57:34 combo ftpd[4839]: connection from 69.15.163.251 (mail2.systemsevolution.com) at Wed Sep  7 10:57:34 2005
+Sep  7 10:57:34 combo ftpd[4835]: connection from 69.15.163.251 (mail2.systemsevolution.com) at Wed Sep  7 10:57:34 2005
+Sep 10 04:13:01 combo su(pam_unix)[14369]: session opened for user news by (uid=0)
+Sep 12 07:40:36 combo sshd(pam_unix)[24517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Sep 12 07:40:46 combo sshd(pam_unix)[24520]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Sep 12 07:41:20 combo sshd(pam_unix)[24546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Sep 12 07:41:26 combo sshd(pam_unix)[24549]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Sep 13 03:36:33 combo ftpd[26242]: connection from 211.234.84.17 () at Tue Sep 13 03:36:33 2005
+Sep 13 04:04:32 combo su(pam_unix)[26658]: session opened for user cyrus by (uid=0)
+Sep 13 04:04:41 combo sshd(pam_unix)[26659]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Sep 13 10:08:23 combo sshd(pam_unix)[27633]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com  user=root
+Sep 13 10:08:24 combo sshd(pam_unix)[27636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com  user=root
+Sep 15 04:03:22 combo su(pam_unix)[709]: session closed for user cyrus
+Sep 15 04:03:23 combo logrotate: ALERT exited abnormally with [1]
+Sep 15 04:09:13 combo su(pam_unix)[1080]: session closed for user news
+Sep 15 04:35:20 combo sshd(pam_unix)[1179]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-41-150.hinet-ip.hinet.net  user=root
+Sep 15 04:35:20 combo sshd(pam_unix)[1183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-41-150.hinet-ip.hinet.net  user=root
+Sep 15 17:30:15 combo ftpd[2305]: connection from 200.207.16.97 (200-207-16-97.dsl.telesp.net.br) at Thu Sep 15 17:30:15 2005
+Sep 15 17:30:15 combo ftpd[2293]: connection from 200.207.16.97 (200-207-16-97.dsl.telesp.net.br) at Thu Sep 15 17:30:15 2005
+Sep 15 18:30:44 combo ftpd[2429]: connection from 81.112.58.26 (host26-58.pool81112.interbusiness.it) at Thu Sep 15 18:30:44 2005
+Sep 16 01:14:06 combo ftpd[3006]: connection from 211.72.151.162 () at Fri Sep 16 01:14:06 2005
+Sep 16 04:05:18 combo logrotate: ALERT exited abnormally with [1]
+Sep 16 12:12:38 combo ftpd[5559]: connection from 213.232.120.139 () at Fri Sep 16 12:12:38 2005
+Sep 16 12:12:38 combo ftpd[5557]: connection from 213.232.120.139 () at Fri Sep 16 12:12:38 2005
+Sep 16 12:12:38 combo ftpd[5566]: connection from 213.232.120.139 () at Fri Sep 16 12:12:38 2005
+Sep 17 04:03:49 combo logrotate: ALERT exited abnormally with [1]
+Sep 17 13:19:29 combo sshd(pam_unix)[8461]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Sep 17 13:19:29 combo sshd(pam_unix)[8464]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Sep 17 13:19:29 combo sshd(pam_unix)[8459]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Sep 19 05:57:37 combo kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+Sep 19 05:57:37 combo kernel: Initializing CPU#0
+Sep 19 05:57:37 combo kernel: CPU: L2 cache: 256K
+Sep 19 05:57:38 combo kernel: POSIX conformance testing by UNIFIX
+Sep 19 05:57:38 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Sep 19 05:57:38 combo kernel: agpgart: Detected an Intel i810 E Chipset.
+Sep 19 05:57:38 combo kernel: RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize
+Sep 19 05:57:39 combo hcid[1708]: HCI daemon ver 2.4 started
+Sep 19 05:57:39 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Sep 19 05:57:39 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Sep 19 05:57:40 combo kernel: RAMDISK: Compressed image found at block 0
+Sep 19 05:57:40 combo kernel: VFS: Mounted root (ext2 filesystem).
+Sep 19 05:57:43 combo kernel: parport0: irq 7 detected
+Sep 19 05:57:43 combo kernel: inserting floppy driver for 2.6.5-1.358
+Sep 19 05:57:45 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Sep 19 05:57:51 combo kernel: parport0: irq 7 detected
+Sep 19 05:57:53 combo sshd:  succeeded
+Sep 19 05:57:56 combo xinetd[2034]: Service telnet failed to start and is deactivated.
+Sep 19 09:58:25 combo named[2305]: using 1 CPU
+Sep 19 05:58:32 combo ntpd[2326]: precision = 1.000 usec
+Sep 19 05:58:40 combo udev[2675]: removing device node '/udev/vcsa3'
+Sep 20 04:04:00 combo su(pam_unix)[5052]: session opened for user cyrus by (uid=0)
+Sep 21 04:05:56 combo su(pam_unix)[8777]: session closed for user cyrus
+Sep 22 05:17:06 combo sshd(pam_unix)[12939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Sep 22 15:57:05 combo ftpd[13850]: connection from 212.194.100.8 (l03m-212-194-100-8.d4.club-internet.fr) at Thu Sep 22 15:57:05 2005
+Sep 22 15:57:05 combo ftpd[13845]: connection from 212.194.100.8 (l03m-212-194-100-8.d4.club-internet.fr) at Thu Sep 22 15:57:05 2005
+Sep 22 15:57:08 combo ftpd[13861]: connection from 212.194.100.8 (l03m-212-194-100-8.d4.club-internet.fr) at Thu Sep 22 15:57:08 2005
+Sep 22 19:26:28 combo ftpd[14167]: connection from 60.32.100.147 (pc3.digi-aube-unet.ocn.ne.jp) at Thu Sep 22 19:26:28 2005
+Sep 22 22:41:30 combo ftpd[14489]: connection from 212.194.100.8 (l03m-212-194-100-8.d4.club-internet.fr) at Thu Sep 22 22:41:30 2005
+Sep 23 04:04:29 combo su(pam_unix)[15315]: session closed for user cyrus
+Sep 23 14:08:56 combo telnetd[31326]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep 23 14:08:56 combo telnetd[31315]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep 24 16:00:13 combo sshd(pam_unix)[17104]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu
+Sep 24 16:00:30 combo sshd(pam_unix)[17106]: check pass; user unknown
+Sep 24 16:00:33 combo sshd(pam_unix)[17116]: check pass; user unknown
+Sep 24 16:02:00 combo sshd(pam_unix)[17136]: check pass; user unknown
+Sep 24 16:03:06 combo sshd(pam_unix)[17140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu
+Sep 25 04:11:08 combo cups: cupsd shutdown succeeded
+Sep 25 14:06:21 combo sshd(pam_unix)[23191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:44 combo sshd(pam_unix)[23216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:47 combo sshd(pam_unix)[23224]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:28 combo sshd(pam_unix)[23240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:53 combo sshd(pam_unix)[23327]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 26 04:14:15 combo su(pam_unix)[26137]: session opened for user news by (uid=0)
+Sep 27 04:58:24 combo ftpd[29300]: connection from 68.206.240.214 (cpe-68-206-240-214.houston.res.rr.com) at Tue Sep 27 04:58:24 2005
+Sep 27 15:51:06 combo ftpd[30246]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005
+Sep 28 09:03:08 combo gpm[2094]: imps2: Auto-detected intellimouse PS/2
+Sep 28 09:03:55 combo sendmail: sm-client shutdown succeeded
+Sep 28 09:08:30 combo udev[1115]: removing device node '/udev/vcsa6'
+Sep 28 09:08:35 combo messagebus: messagebus -TERM succeeded
+Sep 28 09:08:38 combo privoxy: privoxy shutdown succeeded
+Sep 28 09:08:40 combo xfs: xfs shutdown succeeded
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.85#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.90#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.100#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.115#53
+Sep 28 09:09:14 combo apmd[1748]: Exiting
+Sep 28 09:10:49 combo rpc.statd[1608]: Version 1.0.6 Starting
+Sep 28 09:10:50 combo kernel: Transparent bridge - 0000:00:1e.0
+Sep 28 09:10:50 combo kernel: audit(1127898608.244:0): initialized
+Sep 28 09:10:50 combo random: Initializing random number generator:  succeeded
+Sep 28 09:10:50 combo kernel: isapnp: Scanning for PnP cards...
+Sep 28 09:10:51 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Sep 28 09:10:51 combo kernel: Using cfq io scheduler
+Sep 28 09:10:51 combo kernel: hda: max request size: 128KiB
+Sep 28 09:10:52 combo apmd[1720]: Charge: * * * (-1% unknown)
+Sep 28 09:10:53 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 28 09:10:54 combo kernel: NET: Registered protocol family 10
+Sep 28 09:11:30 combo xfs: xfs startup succeeded
+Sep 28 09:11:31 combo rc: Starting readahead:  succeeded
+Sep 28 09:11:32 combo messagebus: messagebus startup succeeded
+Sep 28 09:11:55 combo squid[2265]: Squid Parent: child process 2267 started
+Sep 28 09:12:07 combo snmpd: snmpd startup succeeded
+Sep 28 13:12:07 combo named[2281]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Sep 28 09:12:14 combo ntpd[2310]: kernel time sync status 0040
+Sep 28 09:12:25 combo udev[2634]: creating device node '/udev/vcs2'
+Sep 28 09:12:26 combo udev[2705]: removing device node '/udev/vcs4'
+Sep 28 09:12:27 combo udev[2731]: removing device node '/udev/vcs3'
+Sep 28 14:39:55 combo xinetd[2006]: file descriptor of service comsat has been closed
+Sep 29 12:28:10 combo gpm[2071]: imps2: Auto-detected intellimouse PS/2
+Sep 29 12:32:04 combo sendmail: sendmail startup succeeded
+Sep 29 12:32:49 combo udev[6287]: removing device node '/udev/vcs2'
+Sep 29 18:20:24 combo sshd(pam_unix)[6846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net
+Sep 30 04:05:54 combo su(pam_unix)[8022]: session closed for user cyrus
+Oct  1 06:24:45 combo ftpd[12323]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005
+Oct  1 06:24:45 combo ftpd[12320]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005
+Oct  1 06:24:45 combo ftpd[12313]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005
+Oct  1 06:50:49 combo sshd(pam_unix)[12386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Oct  1 06:50:49 combo sshd(pam_unix)[12384]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12392]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Oct  1 06:50:49 combo sshd(pam_unix)[12389]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12389]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Oct  1 06:50:49 combo sshd(pam_unix)[12385]: check pass; user unknown
+Oct  1 07:07:50 combo ftpd[12440]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005
+Oct  3 17:52:41 combo sshd(pam_unix)[3589]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  3 17:52:41 combo sshd(pam_unix)[3590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  3 17:52:41 combo sshd(pam_unix)[3593]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3595]: check pass; user unknown
+Oct  3 17:52:59 combo sshd(pam_unix)[3613]: check pass; user unknown
+Oct  4 04:03:56 combo su(pam_unix)[19489]: session opened for user cyrus by (uid=0)
+Oct  4 05:20:10 combo sshd(pam_unix)[21659]: check pass; user unknown
+Oct  4 06:07:34 combo sshd(pam_unix)[22350]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:40:28 combo sshd(pam_unix)[22891]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22887]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22887]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  4 06:40:29 combo sshd(pam_unix)[22899]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  4 06:40:29 combo sshd(pam_unix)[22900]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  4 06:40:38 combo sshd(pam_unix)[22904]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22914]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Oct  4 07:59:25 combo sshd(pam_unix)[24237]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  5 04:09:35 combo logrotate: ALERT exited abnormally with [1]
+Oct  7 18:55:27 combo sshd(pam_unix)[3287]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:55:51 combo sshd(pam_unix)[3289]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  8 04:44:37 combo sshd(pam_unix)[5219]: session opened for user test by (uid=509)
+Oct  8 13:17:00 combo sshd(pam_unix)[6215]: check pass; user unknown
+Oct  8 22:31:30 combo ftpd[7496]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005
+Oct  9 04:12:04 combo logrotate: ALERT exited abnormally with [1]
+Oct  9 14:05:09 combo sshd(pam_unix)[14377]: check pass; user unknown
+Oct 10 03:40:15 combo passwd(pam_unix)[16110]: password changed for test
+Oct 11 01:56:22 combo sshd(pam_unix)[20229]: session opened for user test by (uid=509)
+Oct 11 03:05:10 combo sshd(pam_unix)[20638]: session closed for user test
+Oct 11 03:37:57 combo sshd(pam_unix)[21172]: session opened for user test by (uid=509)
+Oct 11 07:00:04 combo sshd(pam_unix)[23289]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Oct 11 09:23:39 combo sshd(pam_unix)[23660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.79.44.164
+Oct 11 09:23:39 combo sshd(pam_unix)[23659]: check pass; user unknown
+Oct 11 09:23:39 combo sshd(pam_unix)[23657]: check pass; user unknown
+Oct 12 01:43:31 combo sshd(pam_unix)[26080]: session opened for user test by (uid=509)
+Oct 12 02:00:33 combo sshd(pam_unix)[26223]: session closed for user test
+Oct 12 21:52:32 combo ftpd[29992]: connection from 216.206.24.5 () at Wed Oct 12 21:52:32 2005
+Oct 12 21:52:32 combo ftpd[29995]: connection from 216.206.24.5 () at Wed Oct 12 21:52:32 2005
+Oct 12 21:52:35 combo ftpd[30004]: connection from 216.206.24.5 () at Wed Oct 12 21:52:35 2005
+Oct 12 21:52:35 combo ftpd[30007]: connection from 216.206.24.5 () at Wed Oct 12 21:52:35 2005
+Oct 12 21:52:36 combo ftpd[30025]: connection from 216.206.24.5 () at Wed Oct 12 21:52:36 2005
+Oct 12 21:52:36 combo ftpd[30024]: connection from 216.206.24.5 () at Wed Oct 12 21:52:36 2005
+Oct 13 04:04:29 combo logrotate: ALERT exited abnormally with [1]
+Oct 13 13:44:08 combo ftpd[988]: connection from 210.21.220.88 (sym.gdsz.cncnet.net) at Thu Oct 13 13:44:08 2005
+Oct 14 01:52:30 combo ftpd[2424]: connection from 84.154.104.207 (p549A68CF.dip.t-dialin.net) at Fri Oct 14 01:52:30 2005
+Oct 14 01:52:31 combo ftpd[2430]: connection from 84.154.104.207 (p549A68CF.dip.t-dialin.net) at Fri Oct 14 01:52:31 2005
+Oct 14 01:52:32 combo ftpd[2438]: connection from 84.154.104.207 (p549A68CF.dip.t-dialin.net) at Fri Oct 14 01:52:32 2005
+Oct 14 01:54:27 combo sshd(pam_unix)[2461]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Oct 14 01:54:27 combo sshd(pam_unix)[2444]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Oct 14 06:19:15 combo sshd(pam_unix)[3894]: check pass; user unknown
+Oct 14 07:40:25 combo ftpd[4158]: connection from 213.54.172.95 (p213.54.172.95.tisdip.tiscali.de) at Fri Oct 14 07:40:25 2005
+Oct 14 13:15:00 combo sshd(pam_unix)[5393]: check pass; user unknown
+Oct 14 13:15:00 combo sshd(pam_unix)[5391]: check pass; user unknown
+Oct 15 03:48:39 combo sshd(pam_unix)[8211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.3-plan.ru  user=root
+Oct 15 04:05:54 combo su(pam_unix)[8644]: session closed for user cyrus
+Oct 15 04:06:20 combo sshd(pam_unix)[8680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=129.217.168.31  user=postfix
+Oct 15 12:38:49 combo sshd(pam_unix)[11763]: check pass; user unknown
+Oct 15 12:38:49 combo sshd(pam_unix)[11764]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.215.9
+Oct 15 15:49:48 combo sshd(pam_unix)[12332]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 15 15:49:59 combo sshd(pam_unix)[12344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 15 15:50:11 combo sshd(pam_unix)[12360]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 15 15:50:47 combo sshd(pam_unix)[12411]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 15 15:50:58 combo sshd(pam_unix)[12424]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 16 04:12:17 combo syslogd 1.4.1: restart.
+Oct 16 04:38:16 combo su(pam_unix)[19376]: session opened for user news by (uid=0)
+Oct 16 06:20:09 combo sshd(pam_unix)[19772]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 12:31:50 combo ftpd[21286]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005
+Oct 16 12:31:51 combo ftpd[21295]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005
+Oct 16 12:54:56 combo sshd(pam_unix)[21389]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:56 combo sshd(pam_unix)[21391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:55:01 combo sshd(pam_unix)[21405]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 21:24:07 combo sshd(pam_unix)[23391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru
+Oct 18 04:04:11 combo su(pam_unix)[1265]: session closed for user cyrus
+Oct 21 01:36:24 combo sshd(pam_unix)[9846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 04:09:29 combo su(pam_unix)[11680]: session opened for user news by (uid=0)
+Oct 21 09:52:17 combo ftpd[12225]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005
+Oct 21 09:52:17 combo ftpd[12220]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005
+Oct 21 09:52:17 combo ftpd[12231]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005
+Oct 22 12:05:08 combo sshd(pam_unix)[15475]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 23 01:21:20 combo sshd(pam_unix)[16631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Oct 23 12:39:40 combo fingerd[22508]: Client hung up - probable port-scan
+Oct 23 12:40:19 combo rlogind[22512]: Connection from 81.181.213.88 on illegal port
+Oct 25 10:06:12 combo privoxy: privoxy shutdown succeeded
+Oct 25 10:06:16 combo gpm: gpm shutdown succeeded
+Oct 25 14:07:01 combo named[2281]: no longer listening on 63.126.79.69#53
+Oct 25 10:08:47 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
+Oct 25 10:08:47 combo kernel: Detected 731.217 MHz processor.
+Oct 25 10:08:48 combo kernel: Intel machine check architecture supported.
+Oct 25 10:08:49 combo bluetooth: sdpd startup succeeded
+Oct 25 10:08:49 combo kernel: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Oct 25 10:08:49 combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Oct 25 10:08:49 combo kernel: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+Oct 25 10:08:50 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Oct 25 10:08:58 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Oct 25 10:09:10 combo sendmail: sm-client startup succeeded
+Oct 25 10:09:17 combo privoxy: privoxy startup succeeded
+Oct 25 10:09:22 combo xfs: xfs startup succeeded
+Oct 25 14:09:47 combo named[2275]: listening on IPv4 interface eth0, 63.126.79.67#53
+Oct 25 10:10:03 combo udev[2759]: removing device node '/udev/vcs5'
+Oct 26 04:04:29 combo logrotate: ALERT exited abnormally with [1]
+Oct 27 04:04:00 combo su(pam_unix)[7471]: session closed for user cyrus
+Oct 27 04:10:48 combo su(pam_unix)[8705]: session opened for user news by (uid=0)
+Oct 27 04:10:48 combo su(pam_unix)[8705]: session closed for user news
+Oct 30 04:04:26 combo su(pam_unix)[17405]: session opened for user cyrus by (uid=0)
+Oct 31 04:11:09 combo su(pam_unix)[28038]: session opened for user news by (uid=0)
+Nov  3 20:35:11 combo sshd(pam_unix)[6043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.122.28.162  user=test
+Nov  3 20:35:11 combo sshd(pam_unix)[6044]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.122.28.162  user=test
+Nov  5 06:41:01 combo ftpd[11271]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:41:01 2005
+Nov  5 06:41:21 combo ftpd[11283]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:41:21 2005
+Nov  5 06:42:01 combo ftpd[11305]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:42:01 2005
+Nov  5 06:42:27 combo ftpd[11317]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:42:27 2005
+Nov  5 06:42:34 combo ftpd[11319]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:42:34 2005
+Nov  5 06:42:36 combo ftpd[11323]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:42:36 2005
+Nov  5 06:43:00 combo ftpd[11337]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:43:00 2005
+Nov  5 06:43:00 combo ftpd[11339]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:43:00 2005
+Nov  5 06:43:49 combo ftpd[11370]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:43:49 2005
+Nov  5 06:44:06 combo ftpd[11384]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:44:06 2005
+Nov  5 06:44:20 combo ftpd[11392]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:44:20 2005
+Nov  5 06:44:39 combo ftpd[11408]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:44:39 2005
+Nov  5 06:45:16 combo ftpd[11434]: connection from 84.57.172.16 (dslb-084-057-172-016.pools.arcor-ip.net) at Sat Nov  5 06:45:16 2005
+Nov  5 11:39:19 combo sshd(pam_unix)[11862]: check pass; user unknown
+Nov  7 07:54:25 combo ftpd[21237]: connection from 82.121.128.139 (ASte-Genev-Bois-151-1-2-139.w82-121.abo.wanadoo.fr) at Mon Nov  7 07:54:25 2005
+Nov  7 07:54:25 combo ftpd[21238]: connection from 82.121.128.139 (ASte-Genev-Bois-151-1-2-139.w82-121.abo.wanadoo.fr) at Mon Nov  7 07:54:25 2005
+Nov  7 07:54:25 combo ftpd[21240]: connection from 82.121.128.139 (ASte-Genev-Bois-151-1-2-139.w82-121.abo.wanadoo.fr) at Mon Nov  7 07:54:25 2005
+Nov  7 07:54:25 combo ftpd[21225]: connection from 82.121.128.139 (ASte-Genev-Bois-151-1-2-139.w82-121.abo.wanadoo.fr) at Mon Nov  7 07:54:25 2005
+Nov  7 07:54:25 combo ftpd[21227]: connection from 82.121.128.139 (ASte-Genev-Bois-151-1-2-139.w82-121.abo.wanadoo.fr) at Mon Nov  7 07:54:25 2005
+Nov  7 15:26:39 combo ftpd[21885]: connection from 211.22.147.19 () at Mon Nov  7 15:26:39 2005
+Nov  7 15:26:39 combo ftpd[21879]: connection from 211.22.147.19 () at Mon Nov  7 15:26:39 2005
+Nov  8 04:09:27 combo su(pam_unix)[24552]: session closed for user news
+Nov  8 10:56:36 combo ftpd[25182]: connection from 84.154.98.89 (p549A6259.dip.t-dialin.net) at Tue Nov  8 10:56:36 2005
+Nov  8 10:56:36 combo ftpd[25169]: connection from 84.154.98.89 (p549A6259.dip.t-dialin.net) at Tue Nov  8 10:56:36 2005
+Nov  9 04:12:04 combo su(pam_unix)[27342]: session opened for user news by (uid=0)
+Nov  9 20:57:09 combo sshd(pam_unix)[28829]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Nov  9 20:57:09 combo sshd(pam_unix)[28826]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Nov 10 04:05:21 combo logrotate: ALERT exited abnormally with [1]
+Nov 10 04:11:55 combo su(pam_unix)[31016]: session opened for user news by (uid=0)
+Nov 10 08:12:13 combo sshd(pam_unix)[31397]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Nov 10 08:12:13 combo sshd(pam_unix)[31405]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Nov 10 16:00:31 combo kernel: hda: dma_timer_expiry: dma status == 0x20
+Nov 10 16:00:31 combo kernel: hda: drive not ready for command
+Nov 11 04:35:26 combo sshd(pam_unix)[15652]: check pass; user unknown
+Nov 11 08:45:20 combo ftpd[29665]: connection from 211.107.232.1 () at Fri Nov 11 08:45:20 2005
+Nov 11 08:45:20 combo ftpd[29659]: connection from 211.107.232.1 () at Fri Nov 11 08:45:20 2005
+Nov 12 12:21:22 combo ftpd[32393]: connection from 64.27.5.9 (merton.whererwerunning.com) at Sat Nov 12 12:21:22 2005
+Nov 13 04:12:32 combo su(pam_unix)[6426]: session opened for user cyrus by (uid=0)
+Nov 13 04:12:36 combo su(pam_unix)[6426]: session closed for user cyrus
+Nov 13 07:57:50 combo sshd(pam_unix)[18552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Nov 13 07:57:53 combo sshd(pam_unix)[18545]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Nov 13 16:44:49 combo sshd(pam_unix)[5539]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com  user=root
+Nov 14 13:07:36 combo ftpd[28131]: connection from 84.60.75.213 (dslb-084-060-075-213.pools.arcor-ip.net) at Mon Nov 14 13:07:36 2005
+Nov 14 13:07:45 combo ftpd[28147]: connection from 84.60.75.213 (dslb-084-060-075-213.pools.arcor-ip.net) at Mon Nov 14 13:07:45 2005
+Nov 14 18:12:37 combo sshd(pam_unix)[28590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63-78-203-210.ip.intralot.us  user=test
+Nov 14 20:33:48 combo sshd(pam_unix)[28809]: check pass; user unknown
+Nov 14 20:33:48 combo sshd(pam_unix)[28798]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Nov 14 20:48:03 combo ftpd[28838]: connection from 85.182.21.189 (e182021189.adsl.alicedsl.de) at Mon Nov 14 20:48:03 2005
+Nov 14 20:48:06 combo ftpd[28845]: connection from 85.182.21.189 (e182021189.adsl.alicedsl.de) at Mon Nov 14 20:48:06 2005
+Nov 15 04:03:40 combo su(pam_unix)[29849]: session opened for user cyrus by (uid=0)
+Nov 15 04:36:12 combo kernel: Out of Memory: Killed process 28477 (httpd).
+Nov 15 04:51:01 combo kernel: Out of Memory: Killed process 30303 (httpd).
+Nov 15 04:55:37 combo kernel: Out of Memory: Killed process 30306 (httpd).
+Nov 15 04:57:24 combo kernel: Out of Memory: Killed process 21984 (httpd).
+Nov 15 05:42:36 combo sshd(pam_unix)[30484]: check pass; user unknown
+Nov 15 07:03:34 combo sshd(pam_unix)[30642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Nov 15 12:47:47 combo kernel: Out of Memory: Killed process 31187 (httpd).
+Nov 15 16:35:41 combo kernel: Out of Memory: Killed process 31189 (httpd).
+Nov 15 16:35:55 combo kernel: Out of Memory: Killed process 31190 (httpd).
+Nov 15 17:30:22 combo kernel: Out of Memory: Killed process 31196 (httpd).
+Nov 15 17:40:30 combo kernel: Out of Memory: Killed process 31200 (httpd).
+Nov 15 17:50:17 combo kernel: Out of Memory: Killed process 31201 (httpd).
+Nov 15 18:27:04 combo kernel: Out of Memory: Killed process 31803 (httpd).
+Nov 16 00:30:42 combo kernel: Out of Memory: Killed process 31811 (httpd).
+Nov 16 00:41:42 combo kernel: Out of Memory: Killed process 32416 (httpd).
+Nov 16 15:30:31 combo kernel: Out of Memory: Killed process 3095 (httpd).
+Nov 16 15:31:26 combo kernel: Out of Memory: Killed process 3112 (httpd).
+Nov 16 15:32:21 combo kernel: Out of Memory: Killed process 3117 (httpd).
+Nov 16 19:45:19 combo kernel: Out of Memory: Killed process 3121 (httpd).
+Nov 17 04:12:21 combo kernel: Out of Memory: Killed process 5086 (httpd).
+Nov 17 05:06:00 combo kernel: Out of Memory: Killed process 5110 (httpd).
+Nov 17 08:55:44 combo kernel: Out of Memory: Killed process 5665 (httpd).
+Nov 17 09:10:49 combo kernel: Out of Memory: Killed process 5725 (httpd).
+Nov 17 14:29:01 combo sshd(pam_unix)[6411]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Nov 17 19:10:24 combo kernel: Out of Memory: Killed process 6917 (httpd).
+Nov 17 19:15:26 combo kernel: Out of Memory: Killed process 6943 (httpd).
+Nov 17 19:20:53 combo kernel: Out of Memory: Killed process 6141 (httpd).
+Nov 17 19:21:52 combo kernel: Out of Memory: Killed process 6994 (httpd).
+Nov 17 19:22:14 combo kernel: Out of Memory: Killed process 6997 (httpd).
+Nov 17 21:40:20 combo kernel: Out of Memory: Killed process 7001 (httpd).
+Nov 17 21:44:49 combo kernel: Out of Memory: Killed process 7027 (httpd).
+Nov 18 00:12:04 combo sshd(pam_unix)[7556]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Nov 18 05:00:36 combo kernel: Out of Memory: Killed process 7252 (httpd).
+Nov 18 05:01:36 combo kernel: Out of Memory: Killed process 7257 (httpd).
+Nov 18 05:05:19 combo kernel: Out of Memory: Killed process 7263 (httpd).
+Nov 18 05:06:34 combo su(pam_unix)[9572]: session opened for user news by (uid=0)
+Nov 18 09:13:22 combo ftpd[10010]: connection from 66.15.25.56 (bdsl.66.15.25.56.gte.net) at Fri Nov 18 09:13:22 2005
+Nov 18 09:35:56 combo kernel: Out of Memory: Killed process 10064 (httpd).
+Nov 18 09:41:11 combo kernel: Out of Memory: Killed process 10075 (httpd).
+Nov 18 14:37:20 combo kernel: Out of Memory: Killed process 10676 (httpd).
+Nov 18 15:35:39 combo kernel: Out of Memory: Killed process 10681 (httpd).
+Nov 18 15:41:38 combo kernel: Out of Memory: Killed process 10814 (httpd).
+Nov 18 15:42:04 combo kernel: Out of Memory: Killed process 10816 (httpd).
+Nov 18 15:42:50 combo kernel: Out of Memory: Killed process 10821 (httpd).
+Nov 18 19:35:59 combo kernel: Out of Memory: Killed process 10829 (httpd).
+Nov 18 19:51:43 combo kernel: Out of Memory: Killed process 11237 (httpd).
+Nov 18 20:10:22 combo kernel: Out of Memory: Killed process 11248 (httpd).
+Nov 18 20:16:39 combo kernel: Out of Memory: Killed process 11311 (httpd).
+Nov 18 20:41:03 combo kernel: Out of Memory: Killed process 11356 (httpd).
+Nov 18 23:45:14 combo kernel: Out of Memory: Killed process 11700 (httpd).
+Nov 19 00:10:41 combo kernel: Out of Memory: Killed process 11732 (httpd).
+Nov 19 00:55:26 combo kernel: Out of Memory: Killed process 11805 (httpd).
+Nov 19 00:55:33 combo kernel: Out of Memory: Killed process 11806 (httpd).
+Nov 19 01:05:31 combo kernel: Out of Memory: Killed process 11875 (httpd).
+Nov 19 01:05:57 combo kernel: Out of Memory: Killed process 11885 (httpd).
+Nov 19 01:11:26 combo kernel: Out of Memory: Killed process 11922 (httpd).
+Nov 19 02:16:04 combo kernel: Out of Memory: Killed process 12052 (httpd).
+Nov 19 05:06:46 combo su(pam_unix)[13071]: session opened for user news by (uid=0)
+Nov 19 09:50:16 combo kernel: Out of Memory: Killed process 12195 (httpd).
+Nov 19 10:40:20 combo kernel: Out of Memory: Killed process 12205 (httpd).
+Nov 19 11:17:04 combo kernel: Out of Memory: Killed process 13808 (httpd).
+Nov 19 11:18:30 combo kernel: Out of Memory: Killed process 13817 (httpd).
+Nov 19 11:27:15 combo kernel: Out of Memory: Killed process 13853 (httpd).
+Nov 19 11:28:07 combo kernel: Out of Memory: Killed process 13858 (httpd).
+Nov 19 11:30:09 combo kernel: Out of Memory: Killed process 13873 (httpd).
+Nov 19 11:36:58 combo sshd(pam_unix)[13932]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov 19 11:37:25 combo sshd(pam_unix)[13940]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov 19 14:15:47 combo ftpd[14311]: connection from 217.46.152.45 (host217-46-152-45.in-addr.btopenworld.com) at Sat Nov 19 14:15:47 2005
+Nov 19 14:15:50 combo ftpd[14314]: connection from 217.46.152.45 (host217-46-152-45.in-addr.btopenworld.com) at Sat Nov 19 14:15:50 2005
+Nov 19 14:15:51 combo ftpd[14319]: connection from 217.46.152.45 (host217-46-152-45.in-addr.btopenworld.com) at Sat Nov 19 14:15:51 2005
+Nov 19 15:45:19 combo kernel: Out of Memory: Killed process 13886 (httpd).
+Nov 19 16:15:26 combo kernel: Out of Memory: Killed process 14465 (httpd).
+Nov 19 16:25:38 combo kernel: Out of Memory: Killed process 14549 (httpd).
+Nov 19 16:26:18 combo kernel: Out of Memory: Killed process 13883 (httpd).
+Nov 19 16:26:32 combo kernel: Out of Memory: Killed process 14568 (httpd).
+Nov 19 16:31:16 combo kernel: Out of Memory: Killed process 14596 (httpd).
+Nov 19 17:00:18 combo kernel: Out of Memory: Killed process 14601 (httpd).
+Nov 19 19:20:41 combo kernel: Out of Memory: Killed process 14731 (httpd).
+Nov 19 19:20:49 combo kernel: Out of Memory: Killed process 14732 (httpd).
+Nov 19 20:25:54 combo kernel: Out of Memory: Killed process 15089 (httpd).
+Nov 19 20:27:58 combo kernel: Out of Memory: Killed process 15115 (httpd).
+Nov 19 21:40:17 combo kernel: Out of Memory: Killed process 15143 (httpd).
+Nov 19 22:42:25 combo sshd(pam_unix)[15452]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.126.92.146  user=root
+Nov 19 23:10:37 combo kernel: Out of Memory: Killed process 15403 (httpd).
+Nov 19 23:10:54 combo kernel: Out of Memory: Killed process 15451 (httpd).
+Nov 19 23:15:28 combo kernel: Out of Memory: Killed process 15518 (httpd).
+Nov 19 23:22:22 combo kernel: Out of Memory: Killed process 15564 (httpd).
+Nov 20 01:15:29 combo kernel: Out of Memory: Killed process 15711 (httpd).
+Nov 20 01:21:47 combo kernel: Out of Memory: Killed process 15840 (httpd).
+Nov 20 01:25:32 combo kernel: Out of Memory: Killed process 15844 (httpd).
+Nov 20 01:31:53 combo kernel: Out of Memory: Killed process 15878 (httpd).
+Nov 20 01:35:53 combo kernel: Out of Memory: Killed process 15882 (httpd).
+Nov 20 01:36:01 combo kernel: Out of Memory: Killed process 15883 (httpd).
+Nov 20 03:25:24 combo kernel: Out of Memory: Killed process 16089 (httpd).
+Nov 20 03:27:26 combo kernel: Out of Memory: Killed process 16134 (httpd).
+Nov 20 03:28:02 combo kernel: Out of Memory: Killed process 16140 (httpd).
+Nov 20 03:36:44 combo kernel: Out of Memory: Killed process 16175 (httpd).
+Nov 20 05:17:41 combo kernel: Out of Memory: Killed process 21346 (httpd).
+Nov 20 05:40:38 combo kernel: Out of Memory: Killed process 21350 (httpd).
+Nov 20 05:40:50 combo kernel: Out of Memory: Killed process 21351 (httpd).
+Nov 20 05:43:09 combo kernel: Out of Memory: Killed process 21414 (httpd).
+Nov 20 05:43:17 combo kernel: Out of Memory: Killed process 21415 (httpd).
+Nov 20 05:44:25 combo kernel: Out of Memory: Killed process 21424 (httpd).
+Nov 20 05:45:49 combo kernel: Out of Memory: Killed process 21439 (httpd).
+Nov 20 06:01:54 combo kernel: Out of Memory: Killed process 16810 (sendmail).
+Nov 20 06:02:30 combo kernel: Out of Memory: Killed process 21506 (httpd).
+Nov 20 06:02:35 combo kernel: Out of Memory: Killed process 21507 (httpd).
+Nov 20 06:02:56 combo kernel: Out of Memory: Killed process 21510 (httpd).
+Nov 20 10:40:14 combo kernel: Out of Memory: Killed process 21520 (httpd).
+Nov 20 11:37:41 combo kernel: Out of Memory: Killed process 22146 (httpd).
+Nov 20 11:38:20 combo kernel: Out of Memory: Killed process 22150 (httpd).
+Nov 20 11:38:26 combo kernel: Out of Memory: Killed process 22151 (httpd).
+Nov 20 12:35:27 combo kernel: Out of Memory: Killed process 22260 (httpd).
+Nov 20 12:37:05 combo kernel: Out of Memory: Killed process 22286 (httpd).
+Nov 20 12:38:06 combo kernel: Out of Memory: Killed process 22290 (httpd).
+Nov 20 12:39:14 combo kernel: Out of Memory: Killed process 22297 (httpd).
+Nov 20 12:39:19 combo kernel: Out of Memory: Killed process 22298 (httpd).
+Nov 20 12:45:29 combo kernel: Out of Memory: Killed process 22315 (httpd).
+Nov 20 13:25:28 combo kernel: Out of Memory: Killed process 22332 (httpd).
+Nov 20 13:30:19 combo kernel: Out of Memory: Killed process 22334 (httpd).
+Nov 20 14:30:52 combo kernel: Out of Memory: Killed process 22461 (httpd).
+Nov 20 14:31:18 combo kernel: Out of Memory: Killed process 22556 (httpd).
+Nov 20 14:32:32 combo kernel: Out of Memory: Killed process 22566 (httpd).
+Nov 20 14:40:35 combo kernel: Out of Memory: Killed process 22595 (httpd).
+Nov 20 15:15:22 combo kernel: Out of Memory: Killed process 22606 (httpd).
+Nov 20 15:41:17 combo kernel: Out of Memory: Killed process 22758 (httpd).
+Nov 20 15:50:31 combo kernel: Out of Memory: Killed process 22769 (httpd).
+Nov 20 16:15:25 combo kernel: Out of Memory: Killed process 22817 (httpd).
+Nov 20 16:16:00 combo kernel: Out of Memory: Killed process 22844 (httpd).
+Nov 20 17:00:43 combo kernel: Out of Memory: Killed process 22972 (httpd).
+Nov 20 17:02:21 combo kernel: Out of Memory: Killed process 22990 (httpd).
+Nov 20 17:10:29 combo kernel: Out of Memory: Killed process 22995 (httpd).
+Nov 20 17:12:38 combo kernel: Out of Memory: Killed process 23032 (httpd).
+Nov 20 17:15:44 combo kernel: Out of Memory: Killed process 23042 (httpd).
+Nov 20 17:15:53 combo kernel: Out of Memory: Killed process 23043 (httpd).
+Nov 20 17:17:26 combo kernel: Out of Memory: Killed process 23058 (httpd).
+Nov 20 17:56:13 combo kernel: Out of Memory: Killed process 23144 (httpd).
+Nov 20 18:17:16 combo kernel: Out of Memory: Killed process 23213 (httpd).
+Nov 20 18:20:31 combo kernel: Out of Memory: Killed process 23214 (httpd).
+Nov 20 18:21:47 combo kernel: Out of Memory: Killed process 23236 (httpd).
+Nov 20 18:22:21 combo kernel: Out of Memory: Killed process 23238 (httpd).
+Nov 20 18:26:35 combo kernel: Out of Memory: Killed process 23256 (httpd).
+Nov 20 19:45:42 combo kernel: Out of Memory: Killed process 24255 (httpd).
+Nov 20 20:15:27 combo kernel: Out of Memory: Killed process 24487 (httpd).
+Nov 20 20:15:40 combo kernel: Out of Memory: Killed process 24507 (httpd).
+Nov 20 21:45:16 combo kernel: Out of Memory: Killed process 24629 (httpd).
+Nov 20 22:20:38 combo kernel: Out of Memory: Killed process 24769 (httpd).
+Nov 20 22:20:43 combo kernel: Out of Memory: Killed process 24770 (httpd).
+Nov 20 22:22:51 combo kernel: Out of Memory: Killed process 24807 (httpd).
+Nov 20 22:25:48 combo kernel: Out of Memory: Killed process 24814 (httpd).
+Nov 20 22:31:22 combo kernel: Out of Memory: Killed process 24865 (httpd).
+Nov 20 22:46:07 combo kernel: Out of Memory: Killed process 24943 (httpd).
+Nov 20 23:26:33 combo kernel: Out of Memory: Killed process 25077 (httpd).
+Nov 20 23:27:28 combo kernel: Out of Memory: Killed process 25085 (httpd).
+Nov 20 23:42:30 combo kernel: Out of Memory: Killed process 25190 (httpd).
+Nov 20 23:43:03 combo kernel: Out of Memory: Killed process 25193 (httpd).
+Nov 20 23:46:56 combo kernel: Out of Memory: Killed process 25210 (httpd).
+Nov 20 23:47:46 combo kernel: Out of Memory: Killed process 25217 (httpd).
+Nov 21 00:21:37 combo kernel: Out of Memory: Killed process 25345 (httpd).
+Nov 21 00:22:26 combo kernel: Out of Memory: Killed process 25352 (httpd).
+Nov 21 00:33:39 combo kernel: Out of Memory: Killed process 25411 (httpd).
+Nov 21 00:33:51 combo kernel: Out of Memory: Killed process 25414 (httpd).
+Nov 21 00:41:01 combo kernel: Out of Memory: Killed process 25453 (httpd).
+Nov 21 00:46:51 combo kernel: Out of Memory: Killed process 25509 (httpd).
+Nov 21 00:51:36 combo kernel: Out of Memory: Killed process 25535 (mysqld).
+Nov 21 00:56:43 combo kernel: Out of Memory: Killed process 25588 (httpd).
+Nov 21 00:58:46 combo kernel: Out of Memory: Killed process 25602 (httpd).
+Nov 21 00:59:33 combo kernel: Out of Memory: Killed process 25571 (mysqld).
+Nov 21 01:01:15 combo kernel: Out of Memory: Killed process 25631 (httpd).
+Nov 21 01:03:20 combo kernel: Out of Memory: Killed process 25646 (httpd).
+Nov 21 01:05:36 combo kernel: Out of Memory: Killed process 25677 (httpd).
+Nov 21 01:20:32 combo kernel: Out of Memory: Killed process 25741 (httpd).
+Nov 21 01:21:39 combo kernel: Out of Memory: Killed process 25766 (httpd).
+Nov 21 01:22:58 combo kernel: Out of Memory: Killed process 25776 (httpd).
+Nov 21 01:52:13 combo kernel: Out of Memory: Killed process 25875 (httpd).
+Nov 21 02:01:18 combo kernel: Out of Memory: Killed process 25901 (httpd).
+Nov 21 02:02:44 combo kernel: Out of Memory: Killed process 25915 (httpd).
+Nov 21 02:10:26 combo kernel: Out of Memory: Killed process 25918 (httpd).
+Nov 21 02:10:52 combo kernel: Out of Memory: Killed process 25935 (httpd).
+Nov 21 02:12:15 combo kernel: Out of Memory: Killed process 25956 (httpd).
+Nov 21 02:33:11 combo kernel: Out of Memory: Killed process 26078 (httpd).
+Nov 21 02:34:09 combo kernel: Out of Memory: Killed process 26084 (httpd).
+Nov 21 02:34:20 combo kernel: Out of Memory: Killed process 26086 (httpd).
+Nov 21 02:34:33 combo kernel: Out of Memory: Killed process 26088 (httpd).
+Nov 21 02:36:32 combo kernel: Out of Memory: Killed process 26100 (httpd).
+Nov 21 02:44:02 combo kernel: Out of Memory: Killed process 26128 (python).
+Nov 21 02:47:14 combo kernel: Out of Memory: Killed process 26165 (httpd).
+Nov 21 02:47:58 combo kernel: Out of Memory: Killed process 26171 (httpd).
+Nov 21 02:52:41 combo kernel: Out of Memory: Killed process 26206 (httpd).
+Nov 21 02:57:13 combo kernel: Out of Memory: Killed process 26227 (httpd).
+Nov 21 02:59:59 combo kernel: Out of Memory: Killed process 26245 (httpd).
+Nov 21 03:00:05 combo kernel: Out of Memory: Killed process 26246 (httpd).
+Nov 21 03:00:15 combo kernel: Out of Memory: Killed process 26248 (httpd).
+Nov 21 03:01:00 combo kernel: Out of Memory: Killed process 26258 (httpd).
+Nov 21 03:04:02 combo kernel: Out of Memory: Killed process 26280 (httpd).
+Nov 21 03:05:17 combo kernel: Out of Memory: Killed process 26296 (httpd).
+Nov 21 03:06:49 combo kernel: Out of Memory: Killed process 26310 (httpd).
+Nov 21 03:07:18 combo kernel: Out of Memory: Killed process 26315 (httpd).
+Nov 21 03:11:03 combo kernel: Out of Memory: Killed process 26337 (httpd).
+Nov 21 03:13:00 combo kernel: Out of Memory: Killed process 26355 (httpd).
+Nov 21 03:16:29 combo kernel: Out of Memory: Killed process 26366 (httpd).
+Nov 21 03:17:38 combo kernel: Out of Memory: Killed process 26379 (httpd).
+Nov 21 03:26:46 combo kernel: Out of Memory: Killed process 26433 (httpd).
+Nov 21 03:28:19 combo kernel: Out of Memory: Killed process 26446 (httpd).
+Nov 21 03:29:01 combo kernel: Out of Memory: Killed process 26452 (httpd).
+Nov 21 03:29:06 combo kernel: Out of Memory: Killed process 26453 (httpd).
+Nov 21 03:36:03 combo kernel: Out of Memory: Killed process 26508 (httpd).
+Nov 21 03:36:27 combo kernel: Out of Memory: Killed process 26510 (httpd).
+Nov 21 03:36:32 combo kernel: Out of Memory: Killed process 26511 (httpd).
+Nov 21 03:37:22 combo kernel: Out of Memory: Killed process 26517 (httpd).
+Nov 21 03:40:20 combo kernel: Out of Memory: Killed process 26524 (httpd).
+Nov 21 03:46:06 combo kernel: Out of Memory: Killed process 26568 (httpd).
+Nov 21 03:46:17 combo kernel: Out of Memory: Killed process 26570 (httpd).
+Nov 21 03:50:29 combo kernel: Out of Memory: Killed process 26576 (httpd).
+Nov 21 04:15:30 combo kernel: Out of Memory: Killed process 27142 (httpd).
+Nov 21 04:15:36 combo kernel: Out of Memory: Killed process 27143 (httpd).
+Nov 21 04:17:08 combo kernel: Out of Memory: Killed process 27156 (httpd).
+Nov 21 04:17:51 combo kernel: Out of Memory: Killed process 27161 (httpd).
+Nov 21 04:18:50 combo kernel: Out of Memory: Killed process 27167 (httpd).
+Nov 21 04:19:04 combo kernel: Out of Memory: Killed process 27169 (httpd).
+Nov 21 05:45:39 combo kernel: Out of Memory: Killed process 27629 (httpd).
+Nov 21 05:46:55 combo kernel: Out of Memory: Killed process 27648 (httpd).
+Nov 21 05:48:36 combo kernel: Out of Memory: Killed process 27656 (httpd).
+Nov 21 05:50:40 combo kernel: Out of Memory: Killed process 27660 (httpd).
+Nov 21 05:52:29 combo kernel: Out of Memory: Killed process 27683 (httpd).
+Nov 21 05:52:45 combo kernel: Out of Memory: Killed process 27685 (httpd).
+Nov 21 05:53:24 combo kernel: Out of Memory: Killed process 27689 (httpd).
+Nov 21 05:54:02 combo kernel: Out of Memory: Killed process 27694 (httpd).
+Nov 21 05:54:56 combo kernel: Out of Memory: Killed process 27701 (httpd).
+Nov 21 05:55:02 combo kernel: Out of Memory: Killed process 27702 (httpd).
+Nov 21 05:55:29 combo kernel: Out of Memory: Killed process 27705 (httpd).
+Nov 21 05:55:35 combo kernel: Out of Memory: Killed process 27706 (httpd).
+Nov 21 05:55:41 combo kernel: Out of Memory: Killed process 27711 (httpd).
+Nov 21 05:56:43 combo kernel: Out of Memory: Killed process 27715 (httpd).
+Nov 21 05:58:23 combo kernel: Out of Memory: Killed process 27727 (httpd).
+Nov 21 06:00:24 combo kernel: Out of Memory: Killed process 27731 (httpd).
+Nov 21 06:03:25 combo kernel: Out of Memory: Killed process 27765 (httpd).
+Nov 21 06:03:58 combo kernel: Out of Memory: Killed process 27770 (httpd).
+Nov 21 06:04:16 combo kernel: Out of Memory: Killed process 27773 (httpd).
+Nov 21 07:35:27 combo kernel: Out of Memory: Killed process 27775 (httpd).
+Nov 21 08:15:52 combo kernel: Out of Memory: Killed process 28071 (httpd).
+Nov 21 08:21:18 combo kernel: Out of Memory: Killed process 28096 (httpd).
+Nov 21 08:22:07 combo kernel: Out of Memory: Killed process 28102 (httpd).
+Nov 21 08:22:21 combo kernel: Out of Memory: Killed process 28104 (httpd).
+Nov 21 08:22:55 combo kernel: Out of Memory: Killed process 28108 (httpd).
+Nov 21 08:23:22 combo kernel: Out of Memory: Killed process 28112 (httpd).
+Nov 21 08:23:46 combo kernel: Out of Memory: Killed process 28115 (httpd).
+Nov 21 08:23:52 combo kernel: Out of Memory: Killed process 28116 (httpd).
+Nov 21 08:26:28 combo kernel: Out of Memory: Killed process 28137 (httpd).
+Nov 21 08:36:33 combo kernel: Out of Memory: Killed process 28185 (httpd).
+Nov 21 08:36:49 combo kernel: Out of Memory: Killed process 28187 (httpd).
+Nov 21 08:40:56 combo kernel: Out of Memory: Killed process 28189 (httpd).
+Nov 21 08:44:07 combo kernel: Out of Memory: Killed process 28218 (httpd).
+Nov 21 08:44:58 combo kernel: Out of Memory: Killed process 28223 (httpd).
+Nov 21 08:46:03 combo kernel: Out of Memory: Killed process 28227 (httpd).
+Nov 21 08:46:49 combo kernel: Out of Memory: Killed process 28236 (httpd).
+Nov 21 08:47:04 combo kernel: Out of Memory: Killed process 28238 (httpd).
+Nov 21 08:48:31 combo kernel: Out of Memory: Killed process 28250 (httpd).
+Nov 21 08:50:06 combo kernel: Out of Memory: Killed process 28232 (python).
+Nov 21 08:50:20 combo kernel: Out of Memory: Killed process 28264 (httpd).
+Nov 21 08:50:27 combo kernel: Out of Memory: Killed process 28265 (httpd).
+Nov 21 08:50:35 combo kernel: Out of Memory: Killed process 28266 (httpd).
+Nov 21 08:50:51 combo kernel: Out of Memory: Killed process 28274 (httpd).
+Nov 21 08:52:02 combo kernel: Out of Memory: Killed process 28286 (httpd).
+Nov 21 09:33:32 combo sshd(pam_unix)[28386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.152  user=root
+Nov 21 11:30:45 combo kernel: Out of Memory: Killed process 28606 (httpd).
+Nov 21 11:35:22 combo kernel: Out of Memory: Killed process 28607 (httpd).
+Nov 21 11:45:18 combo kernel: Out of Memory: Killed process 28642 (httpd).
+Nov 21 11:45:23 combo kernel: Out of Memory: Killed process 28643 (httpd).
+Nov 21 11:46:58 combo kernel: Out of Memory: Killed process 28658 (httpd).
+Nov 21 11:52:22 combo kernel: Out of Memory: Killed process 28683 (httpd).
+Nov 21 11:57:23 combo kernel: Out of Memory: Killed process 28709 (httpd).
+Nov 21 12:00:22 combo kernel: Out of Memory: Killed process 28715 (httpd).
+Nov 21 12:15:44 combo kernel: Out of Memory: Killed process 28765 (httpd).
+Nov 21 12:21:24 combo kernel: Out of Memory: Killed process 28794 (httpd).
+Nov 21 12:27:04 combo kernel: Out of Memory: Killed process 28816 (httpd).
+Nov 21 12:30:42 combo kernel: Out of Memory: Killed process 28819 (httpd).
+Nov 21 12:32:57 combo kernel: Out of Memory: Killed process 28844 (httpd).
+Nov 21 12:40:13 combo kernel: Out of Memory: Killed process 28875 (httpd).
+Nov 21 12:41:16 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 21 12:41:17 combo kernel:  [<0210737b>] do_IRQ+0x15d/0x169
+Nov 21 12:41:17 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 21 12:41:19 combo kernel:
+Nov 21 14:45:52 combo kernel: Out of Memory: Killed process 29149 (httpd).
+Nov 21 14:46:48 combo kernel: Out of Memory: Killed process 29155 (httpd).
+Nov 21 14:47:10 combo kernel: Out of Memory: Killed process 29157 (httpd).
+Nov 21 14:48:22 combo kernel: Out of Memory: Killed process 29165 (httpd).
+Nov 21 14:56:12 combo kernel: Out of Memory: Killed process 29202 (httpd).
+Nov 21 15:01:51 combo kernel: Out of Memory: Killed process 29223 (httpd).
+Nov 21 15:06:24 combo kernel: Out of Memory: Killed process 29246 (httpd).
+Nov 21 15:06:36 combo kernel: Out of Memory: Killed process 29248 (httpd).
+Nov 21 15:12:11 combo kernel: Out of Memory: Killed process 29274 (httpd).
+Nov 21 15:15:58 combo kernel: Out of Memory: Killed process 29294 (httpd).
+Nov 21 15:16:17 combo kernel: Out of Memory: Killed process 29296 (httpd).
+Nov 21 15:39:40 combo kernel: Out of Memory: Killed process 29403 (httpd).
+Nov 21 17:25:54 combo kernel: Out of Memory: Killed process 29615 (httpd).
+Nov 21 17:30:24 combo kernel: Out of Memory: Killed process 29634 (httpd).
+Nov 21 17:45:42 combo kernel: Out of Memory: Killed process 29678 (httpd).
+Nov 21 17:45:58 combo kernel: Out of Memory: Killed process 29677 (python).
+Nov 21 17:52:12 combo kernel: Out of Memory: Killed process 29696 (httpd).
+Nov 21 17:52:30 combo kernel: Out of Memory: Killed process 29699 (httpd).
+Nov 21 17:55:18 combo kernel: Out of Memory: Killed process 29701 (httpd).
+Nov 21 18:00:40 combo kernel: Out of Memory: Killed process 29713 (httpd).
+Nov 21 18:01:22 combo kernel: Out of Memory: Killed process 29723 (httpd).
+Nov 21 18:15:32 combo kernel: Out of Memory: Killed process 29762 (httpd).
+Nov 21 18:16:07 combo kernel: Out of Memory: Killed process 29779 (httpd).
+Nov 21 18:17:47 combo kernel: Out of Memory: Killed process 29789 (httpd).
+Nov 21 18:22:24 combo kernel: Out of Memory: Killed process 29812 (httpd).
+Nov 21 18:22:32 combo kernel: Out of Memory: Killed process 29813 (httpd).
+Nov 21 20:30:25 combo kernel: Out of Memory: Killed process 30050 (httpd).
+Nov 21 21:05:20 combo kernel: Out of Memory: Killed process 30124 (httpd).
+Nov 21 21:10:38 combo kernel: Out of Memory: Killed process 30147 (httpd).
+Nov 21 23:35:28 combo kernel: Out of Memory: Killed process 30432 (httpd).
+Nov 21 23:50:13 combo kernel: Out of Memory: Killed process 30467 (httpd).
+Nov 22 00:15:33 combo kernel: Out of Memory: Killed process 30541 (python).
+Nov 22 00:35:41 combo kernel: Out of Memory: Killed process 30600 (httpd).
+Nov 22 02:30:27 combo kernel: Out of Memory: Killed process 30848 (httpd).
+Nov 22 02:35:50 combo kernel: Out of Memory: Killed process 30874 (httpd).
+Nov 22 02:38:21 combo sshd(pam_unix)[30880]: check pass; user unknown
+Nov 22 02:38:21 combo sshd(pam_unix)[30881]: check pass; user unknown
+Nov 22 02:38:21 combo sshd(pam_unix)[30884]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Nov 22 02:38:21 combo sshd(pam_unix)[30885]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Nov 22 02:38:22 combo sshd(pam_unix)[30882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Nov 22 02:40:24 combo kernel: Out of Memory: Killed process 30875 (httpd).
+Nov 22 03:25:42 combo kernel: Out of Memory: Killed process 30986 (httpd).
+Nov 22 05:06:50 combo su(pam_unix)[318]: session opened for user news by (uid=0)
+Nov 22 05:41:08 combo kernel: Out of Memory: Killed process 445 (httpd).
+Nov 22 07:30:32 combo kernel: Out of Memory: Killed process 692 (python).
+Nov 22 07:35:50 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Nov 22 07:35:50 combo kernel:  [<021361c7>] do_no_page+0xa1/0x235
+Nov 22 07:35:50 combo kernel:  [<02135fdc>] do_swap_page+0x1d3/0x1f9
+Nov 22 07:36:08 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 22 07:36:43 combo kernel: Call Trace:
+Nov 22 07:36:49 combo kernel:  [<021c8bda>] vt_console_print+0x64/0x28f
+Nov 22 07:36:53 combo kernel:  [<02106159>] dump_stack+0x11/0x13
+Nov 22 07:36:57 combo kernel: Out of Memory: Killed process 367 (sendmail).
+Nov 22 09:10:32 combo kernel: Out of Memory: Killed process 904 (httpd).
+Nov 22 09:15:25 combo kernel: Out of Memory: Killed process 915 (httpd).
+Nov 22 09:20:25 combo kernel: Out of Memory: Killed process 930 (httpd).
+Nov 22 09:25:55 combo kernel: Call Trace:
+Nov 22 09:25:57 combo kernel: Call Trace:
+Nov 22 09:25:59 combo kernel:  [<0211c38d>] proc_dointvec+0x11/0x15
+Nov 22 09:26:02 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 22 09:26:08 combo kernel:  [<02115ed2>] __wake_up_common+0x2f/0x50
+Nov 22 09:31:19 combo kernel:  [<02135dee>] swapin_readahead+0x2c/0x47
+Nov 22 09:31:19 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 22 09:31:29 combo kernel:  [<0213f423>] put_user_size+0x29/0x2d
+Nov 22 09:31:31 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 22 09:31:42 combo kernel:  [<02115f01>] __wake_up+0xe/0x16
+Nov 22 09:35:39 combo kernel:
+Nov 22 09:35:56 combo kernel:  [<021361c7>] do_no_page+0xa1/0x235
+Nov 22 09:36:05 combo kernel:
+Nov 22 09:36:09 combo kernel:  [<0213f423>] put_user_size+0x29/0x2d
+Nov 22 12:05:26 combo kernel: Out of Memory: Killed process 1300 (python).
+Nov 22 12:15:25 combo kernel: Out of Memory: Killed process 1313 (httpd).
+Nov 22 12:25:51 combo kernel: Out of Memory: Killed process 905 (sendmail).
+Nov 22 12:25:54 combo kernel:  [<021359c3>] do_wp_page+0x97/0x21c
+Nov 22 12:26:37 combo sshd(pam_unix)[1371]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-67-176-148-16.hsd1.il.comcast.net  user=root
+Nov 22 12:26:37 combo sshd(pam_unix)[1366]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-67-176-148-16.hsd1.il.comcast.net  user=root
+Nov 22 12:40:55 combo kernel: Out of Memory: Killed process 1416 (python).
+Nov 22 12:45:24 combo kernel: Out of Memory: Killed process 1421 (python).
+Nov 22 13:20:25 combo kernel: Out of Memory: Killed process 1493 (httpd).
+Nov 22 13:40:23 combo kernel: Out of Memory: Killed process 1563 (python).
+Nov 22 14:25:19 combo kernel: Out of Memory: Killed process 1653 (httpd).
+Nov 22 14:30:56 combo kernel: Out of Memory: Killed process 1686 (httpd).
+Nov 22 14:31:09 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 22 14:31:11 combo kernel: Call Trace:
+Nov 22 14:31:40 combo kernel: VM: killing process httpd
+Nov 22 14:31:46 combo kernel:  [<0a8e1ba6>] ext3_reserve_inode_write+0x21/0x81 [ext3]
+Nov 22 14:31:51 combo kernel:  [<02118726>] __call_console_drivers+0x36/0x42
+Nov 22 14:32:04 combo kernel:  [<021361c7>] do_no_page+0xa1/0x235
+Nov 22 14:32:13 combo kernel:
+Nov 22 14:32:14 combo kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+Nov 22 14:32:23 combo kernel:  [<02119ccc>] do_exit+0x9f/0x2e3
+Nov 22 14:32:23 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 22 14:32:23 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 22 14:32:25 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 22 14:32:30 combo kernel:  [<02135342>] follow_page+0xda/0xe5
+Nov 22 14:32:31 combo kernel:
+Nov 22 14:32:31 combo kernel: Call Trace:
+Nov 22 14:32:31 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Nov 22 14:40:18 combo kernel: Out of Memory: Killed process 1691 (httpd).
+Nov 22 15:10:31 combo kernel: Out of Memory: Killed process 1765 (python).
+Nov 22 16:55:22 combo kernel: Out of Memory: Killed process 2008 (python).
+Nov 22 17:10:35 combo kernel: Out of Memory: Killed process 2045 (python).
+Nov 22 17:26:20 combo kernel:  [<0213f3d3>] get_user_size+0x30/0x57
+Nov 22 17:31:06 combo kernel: Out of Memory: Killed process 1613 (sendmail).
+Nov 22 19:25:55 combo kernel: Call Trace:
+Nov 22 19:25:55 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 22 19:25:55 combo kernel:
+Nov 22 19:25:55 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Nov 22 19:26:04 combo kernel:  [<0213647b>] handle_mm_fault+0x71/0xe2
+Nov 22 19:26:22 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Nov 22 19:26:32 combo kernel:  [<0213647b>] handle_mm_fault+0x71/0xe2
+Nov 22 19:26:41 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 22 19:26:46 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Nov 22 19:26:56 combo kernel:  [<0211476a>] do_page_fault+0x362/0x446
+Nov 22 19:26:56 combo kernel:  [<0213f423>] put_user_size+0x29/0x2d
+Nov 22 19:26:57 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 22 19:26:58 combo kernel: Out of Memory: Killed process 1906 (sendmail).
+Nov 22 21:55:14 combo kernel: Out of Memory: Killed process 2655 (httpd).
+Nov 22 22:00:40 combo kernel: Out of Memory: Killed process 2665 (python).
+Nov 22 23:30:26 combo kernel: Out of Memory: Killed process 2799 (httpd).
+Nov 23 00:15:51 combo kernel: Out of Memory: Killed process 2952 (httpd).
+Nov 23 01:10:26 combo kernel: Out of Memory: Killed process 3080 (python).
+Nov 23 01:30:18 combo kernel: Out of Memory: Killed process 3120 (httpd).
+Nov 23 01:50:37 combo kernel: Out of Memory: Killed process 3163 (python).
+Nov 23 02:10:23 combo kernel: Out of Memory: Killed process 3199 (httpd).
+Nov 23 02:20:29 combo kernel: Out of Memory: Killed process 3238 (python).
+Nov 23 02:20:46 combo kernel: Out of Memory: Killed process 3242 (httpd).
+Nov 23 04:06:39 combo kernel: Out of Memory: Killed process 3819 (httpd).
+Nov 23 04:06:47 combo kernel: Out of Memory: Killed process 3800 (python).
+Nov 23 05:00:59 combo su(pam_unix)[4270]: session opened for user news by (uid=0)
+Nov 23 05:30:44 combo kernel: Out of Memory: Killed process 4400 (python).
+Nov 23 06:10:20 combo kernel: Out of Memory: Killed process 4453 (httpd).
+Nov 23 06:15:32 combo kernel: Out of Memory: Killed process 4493 (python).
+Nov 23 06:16:07 combo kernel: Out of Memory: Killed process 4509 (sshd).
+Nov 23 06:16:09 combo kernel: Out of Memory: Killed process 4511 (sshd).
+Nov 23 06:16:26 combo sshd(pam_unix)[4500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.114.82.252
+Nov 23 06:16:33 combo kernel: Out of Memory: Killed process 4514 (sshd).
+Nov 23 07:40:25 combo kernel: Out of Memory: Killed process 4685 (python).
+Nov 23 08:16:17 combo kernel:  [<0213f423>] put_user_size+0x29/0x2d
+Nov 23 08:16:19 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Nov 23 08:16:23 combo kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+Nov 23 08:16:32 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 23 08:16:45 combo kernel:  [<0a8e1123>] ext3_get_inode_loc+0x4f/0x201 [ext3]
+Nov 23 08:16:46 combo kernel:  [<0a8e1c17>] ext3_mark_inode_dirty+0x11/0x27 [ext3]
+Nov 23 08:16:50 combo kernel:  [<0212cfe2>] generic_file_aio_write_nolock+0x302/0x84e
+Nov 23 08:16:55 combo kernel:  [<02115f01>] __wake_up+0xe/0x16
+Nov 23 08:16:57 combo kernel:  [<02129a6c>] do_acct_process+0x283/0x297
+Nov 23 08:21:25 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 23 08:21:25 combo kernel:
+Nov 23 08:21:37 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 23 08:21:41 combo kernel:
+Nov 23 08:21:42 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Nov 23 09:35:20 combo kernel: Out of Memory: Killed process 4941 (httpd).
+Nov 23 10:30:36 combo kernel: Out of Memory: Killed process 5095 (python).
+Nov 23 11:00:12 combo kernel: Out of Memory: Killed process 5124 (httpd).
+Nov 23 13:41:08 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 23 13:41:32 combo kernel:  [<02142ed7>] grow_dev_page+0x27/0xc3
+Nov 23 13:41:35 combo kernel:  [<02158800>] __mark_inode_dirty+0x20/0xca
+Nov 23 13:41:37 combo kernel:  [<02115f01>] __wake_up+0xe/0x16
+Nov 23 13:41:41 combo kernel:  [<0211476a>] do_page_fault+0x362/0x446
+Nov 23 13:41:44 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 23 13:41:45 combo kernel: Out of Memory: Killed process 5517 (httpd).
+Nov 23 14:20:27 combo kernel: Out of Memory: Killed process 5523 (httpd).
+Nov 23 14:40:40 combo kernel: Out of Memory: Killed process 5651 (httpd).
+Nov 23 14:40:53 combo kernel: Call Trace:
+Nov 23 14:40:53 combo kernel:  [<021303bd>] do_page_cache_readahead+0xa3/0x101
+Nov 23 14:40:53 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 23 14:41:09 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Nov 23 14:41:11 combo kernel:  [<0213647b>] handle_mm_fault+0x71/0xe2
+Nov 23 14:41:17 combo kernel:  [<02135dee>] swapin_readahead+0x2c/0x47
+Nov 23 14:41:26 combo kernel:  [<021c8bda>] vt_console_print+0x64/0x28f
+Nov 23 14:45:16 combo kernel: Out of Memory: Killed process 5654 (httpd).
+Nov 23 14:45:57 combo kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+Nov 23 14:46:04 combo kernel:  [<02142ed7>] grow_dev_page+0x27/0xc3
+Nov 23 14:46:10 combo kernel:  [<02115f01>] __wake_up+0xe/0x16
+Nov 23 16:35:29 combo kernel: Out of Memory: Killed process 5883 (httpd).
+Nov 23 19:10:36 combo kernel: Out of Memory: Killed process 6189 (python).
+Nov 23 19:30:43 combo kernel: Out of Memory: Killed process 6247 (python).
+Nov 23 20:27:12 combo sshd(pam_unix)[6383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=cfp.acm.org
+Nov 23 20:27:12 combo sshd(pam_unix)[6385]: check pass; user unknown
+Nov 23 20:35:38 combo kernel: Out of Memory: Killed process 6416 (httpd).
+Nov 23 20:41:03 combo kernel: Out of Memory: Killed process 6072 (sendmail).
+Nov 23 21:36:21 combo kernel:  [<021364a7>] handle_mm_fault+0x9d/0xe2
+Nov 23 21:36:23 combo kernel:  [<02114408>] do_page_fault+0x0/0x446
+Nov 23 21:36:27 combo kernel:  [<02135e6d>] do_swap_page+0x64/0x1f9
+Nov 23 21:36:31 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Nov 23 23:10:20 combo kernel: Out of Memory: Killed process 6785 (python).
+Nov 24 01:25:40 combo kernel: Out of Memory: Killed process 7125 (python).
+Nov 24 02:40:22 combo kernel: Out of Memory: Killed process 7293 (python).
+Nov 24 03:30:27 combo kernel: Out of Memory: Killed process 7409 (python).
+Nov 24 05:05:37 combo kernel: Out of Memory: Killed process 9161 (python).
+Nov 24 07:00:21 combo kernel: Out of Memory: Killed process 9458 (python).
+Nov 24 07:05:19 combo kernel: Out of Memory: Killed process 9480 (python).
+Nov 24 08:00:24 combo kernel: Out of Memory: Killed process 9585 (httpd).
+Nov 24 08:15:28 combo kernel: Out of Memory: Killed process 9646 (python).
+Nov 24 08:20:28 combo kernel: Out of Memory: Killed process 9663 (python).
+Nov 24 11:10:20 combo kernel: Out of Memory: Killed process 10082 (python).
+Nov 24 11:10:48 combo ftpd[10086]: connection from 200.215.8.33 (200-215-8-33.fnsce303.ipd.brasiltelecom.net.br) at Thu Nov 24 11:10:48 2005
+Nov 24 11:10:48 combo ftpd[10088]: connection from 200.215.8.33 (200-215-8-33.fnsce303.ipd.brasiltelecom.net.br) at Thu Nov 24 11:10:48 2005
+Nov 24 14:20:48 combo kernel: Out of Memory: Killed process 10470 (python).
+Nov 24 15:15:45 combo kernel: Out of Memory: Killed process 10601 (httpd).
+Nov 24 15:45:15 combo kernel: Out of Memory: Killed process 10686 (python).
+Nov 24 17:25:41 combo kernel: Out of Memory: Killed process 10910 (python).
+Nov 24 17:45:15 combo kernel: Out of Memory: Killed process 10959 (python).
+Nov 24 18:00:40 combo kernel: Out of Memory: Killed process 10976 (python).
+Nov 24 18:25:41 combo kernel: Out of Memory: Killed process 11047 (python).
+Nov 24 18:30:28 combo kernel: Out of Memory: Killed process 11062 (python).
+Nov 24 21:10:42 combo kernel: Out of Memory: Killed process 11401 (python).
+Nov 24 22:15:28 combo kernel: Out of Memory: Killed process 11546 (python).
+Nov 24 23:00:14 combo kernel: Out of Memory: Killed process 11644 (httpd).
+Nov 25 02:00:18 combo kernel: Out of Memory: Killed process 12071 (python).
+Nov 25 02:10:36 combo kernel: Out of Memory: Killed process 11806 (sendmail).
+Nov 25 02:10:36 combo kernel: sendmail: page allocation failure. order:0, mode:0x1d2
+Nov 25 02:10:47 combo kernel: sendmail: page allocation failure. order:0, mode:0x1d2
+Nov 25 02:10:48 combo kernel:  [<0212c5b2>] page_cache_read+0x2a/0x7a
+Nov 25 02:10:49 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 25 02:10:49 combo kernel:  [<02152b72>] d_instantiate+0x3f/0x42
+Nov 25 02:10:55 combo kernel:  [<0212cfe2>] generic_file_aio_write_nolock+0x302/0x84e
+Nov 25 02:10:55 combo kernel:  [<021287f4>] __print_symbol+0x35/0x121
+Nov 25 02:11:01 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Nov 25 02:11:05 combo kernel:  [<021287f4>] __print_symbol+0x35/0x121
+Nov 25 02:11:06 combo kernel:  [<0212d602>] generic_file_aio_write+0x69/0x7c
+Nov 25 02:11:06 combo kernel:  [<0a8ddb99>] ext3_file_write+0x19/0x88 [ext3]
+Nov 25 02:11:07 combo kernel:  [<021189cd>] printk+0x106/0x113
+Nov 25 02:11:09 combo kernel:  [<0211476a>] do_page_fault+0x362/0x446
+Nov 25 02:55:19 combo kernel: Out of Memory: Killed process 12198 (python).
+Nov 25 04:05:37 combo logrotate: ALERT exited abnormally with [1]
+Nov 25 05:30:44 combo kernel: Out of Memory: Killed process 13240 (httpd).
+Nov 25 05:45:38 combo kernel: Out of Memory: Killed process 12948 (sendmail).
+Nov 25 07:40:55 combo kernel: Out of Memory: Killed process 13439 (sendmail).
+Nov 25 10:07:36 combo sshd(pam_unix)[14043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-5103.wroclaw.dialog.net.pl  user=test
+Nov 25 10:40:24 combo kernel: Out of Memory: Killed process 14143 (python).
+Nov 25 10:58:54 combo sshd(pam_unix)[14190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Nov 25 11:30:46 combo kernel: Out of Memory: Killed process 14290 (python).
+Nov 25 15:00:51 combo ftpd[14774]: connection from 219.96.194.251 (pc1.ayaha-hs-unet.ocn.ne.jp) at Fri Nov 25 15:00:51 2005
+Nov 25 15:00:51 combo ftpd[14773]: connection from 219.96.194.251 (pc1.ayaha-hs-unet.ocn.ne.jp) at Fri Nov 25 15:00:51 2005
+Nov 25 15:15:25 combo kernel: Out of Memory: Killed process 14821 (python).
+Nov 25 17:30:25 combo kernel: Out of Memory: Killed process 15146 (httpd).
+Nov 25 17:45:59 combo kernel: Out of Memory: Killed process 15190 (httpd).
+Nov 25 18:35:31 combo kernel: Out of Memory: Killed process 15327 (python).
+Nov 25 20:25:32 combo kernel: Out of Memory: Killed process 15569 (python).
+Nov 25 22:50:20 combo kernel: Out of Memory: Killed process 15873 (python).
+Nov 26 00:21:22 combo kernel: Out of Memory: Killed process 16093 (python).
+Nov 26 00:35:50 combo kernel: Out of Memory: Killed process 16130 (python).
+Nov 26 01:33:56 combo ftpd[16256]: connection from 218.146.61.230 () at Sat Nov 26 01:33:56 2005
+Nov 26 01:50:35 combo kernel: Out of Memory: Killed process 16057 (sendmail).
+Nov 26 04:05:34 combo kernel: Out of Memory: Killed process 16884 (python).
+Nov 26 06:05:26 combo kernel: Out of Memory: Killed process 18496 (python).
+Nov 26 06:35:47 combo kernel: Out of Memory: Killed process 18283 (sendmail).
+Nov 26 06:45:12 combo sshd(pam_unix)[18591]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.35.204.36  user=root
+Nov 26 08:05:22 combo kernel: Out of Memory: Killed process 18786 (python).
+Nov 26 08:25:42 combo kernel: Out of Memory: Killed process 18827 (python).
+Nov 26 10:25:22 combo kernel: Out of Memory: Killed process 19098 (python).
+Nov 26 12:20:47 combo kernel: Out of Memory: Killed process 19357 (python).
+Nov 26 13:00:13 combo kernel: Out of Memory: Killed process 19437 (python).
+Nov 26 13:10:35 combo kernel: Out of Memory: Killed process 19466 (python).
+Nov 26 14:10:38 combo kernel: Out of Memory: Killed process 19617 (python).
+Nov 26 16:31:06 combo sshd(pam_unix)[19947]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=84.233.148.165  user=webmaster
+Nov 26 16:31:06 combo sshd(pam_unix)[19948]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=84.233.148.165  user=webmaster
+Nov 26 17:55:28 combo kernel: Out of Memory: Killed process 20148 (python).
+Nov 26 18:15:26 combo kernel: Out of Memory: Killed process 20193 (python).
+Nov 26 18:35:23 combo kernel: Out of Memory: Killed process 20239 (python).
+Nov 26 18:40:43 combo kernel: Out of Memory: Killed process 20253 (mrtg).
+Nov 26 20:30:55 combo kernel: Out of Memory: Killed process 20310 (sendmail).
+Nov 26 21:00:19 combo kernel: Out of Memory: Killed process 20576 (python).
+Nov 26 21:20:18 combo kernel: Out of Memory: Killed process 20629 (python).
+Nov 26 21:25:27 combo kernel: Out of Memory: Killed process 20641 (python).
+Nov 27 04:06:31 combo syslogd 1.4.1: restart.
+Nov 27 10:40:18 combo kernel: Out of Memory: Killed process 22064 (httpd).
+Nov 27 13:22:36 combo sshd(pam_unix)[26544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Nov 27 15:41:30 combo kernel: Out of Memory: Killed process 26799 (httpd).
+Nov 27 15:41:58 combo kernel: Out of Memory: Killed process 26802 (httpd).
+Nov 27 15:42:43 combo kernel: Out of Memory: Killed process 26806 (httpd).
+Nov 27 18:50:49 combo kernel: Out of Memory: Killed process 27124 (httpd).
+Nov 27 20:15:20 combo kernel: Out of Memory: Killed process 27274 (httpd).
+Nov 27 20:27:33 combo kernel: Out of Memory: Killed process 27373 (httpd).
+Nov 27 23:25:37 combo kernel: Out of Memory: Killed process 27400 (httpd).
+Nov 28 00:41:07 combo kernel: Out of Memory: Killed process 27887 (httpd).
+Nov 28 00:41:52 combo kernel: Out of Memory: Killed process 27908 (httpd).
+Nov 28 00:42:56 combo kernel: Out of Memory: Killed process 27915 (httpd).
+Nov 28 04:45:52 combo kernel: Out of Memory: Killed process 27921 (httpd).
+Nov 28 04:46:22 combo kernel: Out of Memory: Killed process 29728 (httpd).
+Nov 28 04:46:49 combo kernel: Out of Memory: Killed process 29794 (httpd).
+Nov 28 05:00:29 combo kernel: Out of Memory: Killed process 29797 (httpd).
+Nov 28 05:08:44 combo su(pam_unix)[29859]: session opened for user news by (uid=0)
+Nov 28 09:45:28 combo kernel: Out of Memory: Killed process 30131 (httpd).
+Nov 28 09:50:23 combo kernel: Out of Memory: Killed process 30133 (httpd).
+Nov 28 10:10:50 combo kernel: Out of Memory: Killed process 30413 (httpd).
+Nov 28 11:20:32 combo kernel: Out of Memory: Killed process 30586 (httpd).
+Nov 28 11:22:07 combo kernel: Out of Memory: Killed process 30611 (httpd).
+Nov 28 11:30:22 combo kernel: Out of Memory: Killed process 30622 (httpd).
+Nov 28 11:36:23 combo kernel: Out of Memory: Killed process 30648 (httpd).
+Nov 28 12:26:07 combo kernel: Out of Memory: Killed process 30779 (httpd).
+Nov 28 13:30:27 combo kernel: Out of Memory: Killed process 30905 (httpd).
+Nov 28 13:32:57 combo kernel: Out of Memory: Killed process 30969 (httpd).
+Nov 28 13:34:11 combo kernel: Out of Memory: Killed process 30978 (httpd).
+Nov 28 14:20:46 combo kernel: Out of Memory: Killed process 31016 (httpd).
+Nov 28 15:05:30 combo sshd(pam_unix)[31186]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.114.109.131  user=root
+Nov 28 16:37:10 combo kernel: Out of Memory: Killed process 31422 (httpd).
+Nov 28 18:35:51 combo kernel: Out of Memory: Killed process 31640 (httpd).
+Nov 28 18:37:42 combo kernel: Out of Memory: Killed process 31659 (httpd).
+Nov 28 19:37:17 combo kernel: Out of Memory: Killed process 31795 (httpd).
+Nov 28 19:56:52 combo kernel: Out of Memory: Killed process 31836 (httpd).
+Nov 28 19:57:03 combo kernel: Out of Memory: Killed process 31838 (httpd).
+Nov 28 19:57:27 combo kernel: Out of Memory: Killed process 31841 (httpd).
+Nov 28 20:46:00 combo kernel: Out of Memory: Killed process 31971 (httpd).
+Nov 28 20:56:46 combo kernel: Out of Memory: Killed process 32045 (httpd).
+Nov 28 22:31:31 combo kernel: Out of Memory: Killed process 32277 (httpd).
+Nov 28 22:35:18 combo kernel: Out of Memory: Killed process 32283 (httpd).
+Nov 28 22:37:15 combo kernel: Out of Memory: Killed process 32298 (httpd).
+Nov 28 22:45:20 combo kernel: Out of Memory: Killed process 32301 (httpd).
+Nov 28 23:17:18 combo kernel: Out of Memory: Killed process 32397 (httpd).
+Nov 28 23:25:32 combo kernel: Out of Memory: Killed process 32419 (httpd).
+Nov 28 23:26:16 combo kernel: Out of Memory: Killed process 32437 (httpd).
+Nov 28 23:26:33 combo kernel: Out of Memory: Killed process 32439 (httpd).
+Nov 28 23:27:21 combo kernel: Out of Memory: Killed process 32443 (httpd).
+Nov 29 00:21:06 combo kernel: Out of Memory: Killed process 32561 (httpd).
+Nov 29 00:40:46 combo kernel: Out of Memory: Killed process 32671 (httpd).
+Nov 29 00:40:57 combo kernel: Out of Memory: Killed process 32672 (httpd).
+Nov 29 00:49:06 combo kernel: Out of Memory: Killed process 32726 (httpd).
+Nov 29 00:51:06 combo kernel: Out of Memory: Killed process 32735 (httpd).
+Nov 29 00:51:19 combo kernel: Out of Memory: Killed process 32744 (httpd).
+Nov 29 00:54:21 combo kernel: Out of Memory: Killed process 32764 (httpd).
+Nov 29 01:01:03 combo kernel: Out of Memory: Killed process 347 (httpd).
+Nov 29 01:07:07 combo kernel: Out of Memory: Killed process 381 (httpd).
+Nov 29 01:12:35 combo kernel: Out of Memory: Killed process 414 (httpd).
+Nov 29 01:13:14 combo kernel: Out of Memory: Killed process 419 (httpd).
+Nov 29 01:13:43 combo kernel: Out of Memory: Killed process 422 (httpd).
+Nov 29 01:15:15 combo kernel: Out of Memory: Killed process 435 (httpd).
+Nov 29 01:15:53 combo kernel: Out of Memory: Killed process 443 (httpd).
+Nov 29 04:09:56 combo kernel: Out of Memory: Killed process 2002 (python).
+Nov 29 04:10:30 combo kernel: Out of Memory: Killed process 2040 (httpd).
+Nov 29 04:21:59 combo kernel: Out of Memory: Killed process 3079 (httpd).
+Nov 29 04:22:31 combo kernel: Out of Memory: Killed process 3086 (httpd).
+Nov 29 04:25:52 combo kernel: Out of Memory: Killed process 3097 (httpd).
+Nov 29 04:26:48 combo kernel: Out of Memory: Killed process 3250 (httpd).
+Nov 29 04:37:19 combo kernel: Out of Memory: Killed process 3662 (httpd).
+Nov 29 04:39:34 combo kernel: Out of Memory: Killed process 3684 (httpd).
+Nov 29 04:41:07 combo kernel: Out of Memory: Killed process 3697 (httpd).
+Nov 29 04:41:58 combo kernel: Out of Memory: Killed process 3682 (ld-linux.so.2).
+Nov 29 04:42:41 combo kernel:  [<021364a7>] handle_mm_fault+0x9d/0xe2
+Nov 29 04:42:59 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Nov 29 04:43:02 combo kernel:  [<02142ed7>] grow_dev_page+0x27/0xc3
+Nov 29 04:43:19 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Nov 29 04:43:19 combo kernel: Call Trace:
+Nov 29 04:43:23 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Nov 29 04:43:32 combo kernel:  [<0213d341>] read_swap_cache_async+0x41/0x84
+Nov 29 04:43:36 combo kernel: Call Trace:
+Nov 29 04:43:42 combo kernel:  [<02114537>] do_page_fault+0x12f/0x446
+Nov 29 04:43:44 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Nov 29 04:43:47 combo kernel:  [<0227ecc1>] schedule+0x3ed/0x44d
+Nov 29 05:21:05 combo kernel: Out of Memory: Killed process 3811 (httpd).
+Nov 29 05:32:22 combo kernel: Out of Memory: Killed process 3883 (httpd).
+Nov 29 05:45:23 combo kernel: Out of Memory: Killed process 3943 (httpd).
+Nov 29 06:05:56 combo kernel: Out of Memory: Killed process 4020 (httpd).
+Nov 29 06:08:56 combo kernel: Out of Memory: Killed process 4053 (httpd).
+Nov 29 06:09:28 combo kernel: Out of Memory: Killed process 4056 (httpd).
+Nov 29 12:35:29 combo kernel: Out of Memory: Killed process 4373 (httpd).
+Nov 29 12:59:06 combo kernel: Out of Memory: Killed process 4757 (httpd).
+Nov 29 22:46:00 combo kernel: Out of Memory: Killed process 5759 (httpd).
+Nov 29 22:51:04 combo kernel: Out of Memory: Killed process 5772 (httpd).
+Nov 29 23:05:17 combo kernel: Out of Memory: Killed process 5802 (httpd).
+Nov 29 23:06:23 combo kernel: Out of Memory: Killed process 5828 (httpd).
+Nov 29 23:06:27 combo kernel: Out of Memory: Killed process 5829 (httpd).
+Nov 29 23:11:44 combo kernel: Out of Memory: Killed process 5848 (httpd).
+Nov 29 23:15:27 combo kernel: Out of Memory: Killed process 5852 (httpd).
+Nov 29 23:17:52 combo kernel: Out of Memory: Killed process 5876 (httpd).
+Nov 29 23:26:35 combo kernel: Out of Memory: Killed process 5926 (httpd).
+Nov 29 23:26:40 combo kernel: Out of Memory: Killed process 5927 (httpd).
+Nov 29 23:51:04 combo kernel: Out of Memory: Killed process 5987 (httpd).
+Nov 29 23:55:20 combo kernel: Out of Memory: Killed process 6007 (httpd).
+Nov 29 23:56:02 combo kernel: Out of Memory: Killed process 6025 (httpd).
+Nov 29 23:56:45 combo kernel: Out of Memory: Killed process 6028 (httpd).
+Nov 30 00:00:30 combo kernel: Out of Memory: Killed process 6035 (httpd).
+Nov 30 00:01:08 combo kernel: Out of Memory: Killed process 6047 (httpd).
+Nov 30 00:08:12 combo kernel: Out of Memory: Killed process 6083 (httpd).
+Nov 30 00:11:04 combo kernel: Out of Memory: Killed process 6099 (httpd).
+Nov 30 00:16:42 combo kernel: Out of Memory: Killed process 6189 (httpd).
+Nov 30 00:17:32 combo kernel: Out of Memory: Killed process 6193 (httpd).
+Nov 30 00:17:53 combo kernel: Out of Memory: Killed process 6196 (httpd).
+Nov 30 00:20:31 combo kernel: Out of Memory: Killed process 6203 (httpd).
+Nov 30 00:27:05 combo kernel: Out of Memory: Killed process 6243 (httpd).
+Nov 30 00:27:11 combo kernel: Out of Memory: Killed process 6244 (httpd).
+Nov 30 00:27:59 combo kernel: Out of Memory: Killed process 6249 (httpd).
+Nov 30 00:30:33 combo kernel: Out of Memory: Killed process 6257 (httpd).
+Nov 30 00:32:42 combo kernel: Out of Memory: Killed process 6274 (httpd).
+Nov 30 00:34:05 combo kernel: Out of Memory: Killed process 6281 (httpd).
+Nov 30 00:35:45 combo kernel: Out of Memory: Killed process 5420 (sendmail).
+Nov 30 04:12:50 combo kernel: Out of Memory: Killed process 6304 (httpd).
+Nov 30 04:16:05 combo kernel: Out of Memory: Killed process 7358 (httpd).
+Nov 30 04:16:54 combo kernel: Out of Memory: Killed process 7363 (httpd).
+Nov 30 04:17:34 combo kernel: Out of Memory: Killed process 7369 (httpd).
+Nov 30 04:17:46 combo kernel: Out of Memory: Killed process 6353 (sendmail).
+Nov 30 05:10:46 combo kernel: Out of Memory: Killed process 7494 (httpd).
+Nov 30 05:12:07 combo kernel: Out of Memory: Killed process 7508 (httpd).
+Nov 30 05:12:53 combo kernel: Out of Memory: Killed process 7513 (httpd).
+Nov 30 05:13:32 combo kernel: Out of Memory: Killed process 7516 (httpd).
+Nov 30 06:55:16 combo kernel: Out of Memory: Killed process 7539 (httpd).
+Nov 30 07:15:27 combo kernel: Out of Memory: Killed process 7818 (httpd).
+Nov 30 07:25:51 combo kernel: Out of Memory: Killed process 7865 (httpd).
+Nov 30 07:37:28 combo kernel: Out of Memory: Killed process 7924 (httpd).
+Nov 30 07:37:34 combo kernel: Out of Memory: Killed process 7925 (httpd).
+Nov 30 07:41:02 combo kernel: Out of Memory: Killed process 7930 (httpd).
+Nov 30 07:45:29 combo kernel: Out of Memory: Killed process 7953 (httpd).
+Nov 30 07:48:08 combo kernel: Out of Memory: Killed process 7962 (python).
+Nov 30 07:50:22 combo kernel: Out of Memory: Killed process 7978 (httpd).
+Nov 30 07:56:19 combo kernel: Out of Memory: Killed process 8009 (httpd).
+Nov 30 08:00:55 combo kernel: Out of Memory: Killed process 8031 (httpd).
+Nov 30 10:45:35 combo kernel: Out of Memory: Killed process 8064 (httpd).
+Nov 30 11:10:20 combo kernel: Out of Memory: Killed process 8339 (httpd).
+Nov 30 11:10:37 combo kernel: Out of Memory: Killed process 8348 (httpd).
+Nov 30 11:30:46 combo kernel: Out of Memory: Killed process 8445 (httpd).
+Nov 30 11:42:24 combo kernel: Out of Memory: Killed process 8508 (httpd).
+Nov 30 11:43:02 combo kernel: Out of Memory: Killed process 8511 (httpd).
+Nov 30 11:45:57 combo kernel: Out of Memory: Killed process 8524 (httpd).
+Nov 30 11:47:04 combo kernel: Out of Memory: Killed process 8533 (httpd).
+Nov 30 11:47:11 combo kernel: Out of Memory: Killed process 8529 (python).
+Nov 30 11:47:49 combo kernel: Out of Memory: Killed process 8537 (httpd).
+Nov 30 11:50:55 combo kernel: Out of Memory: Killed process 8546 (httpd).
+Nov 30 11:57:15 combo kernel: Out of Memory: Killed process 8551 (mrtg).
+Nov 30 13:46:24 combo kernel: Out of Memory: Killed process 8815 (httpd).
+Nov 30 13:46:35 combo kernel: Out of Memory: Killed process 8817 (httpd).
+Nov 30 13:55:58 combo kernel: Out of Memory: Killed process 8841 (httpd).
+Nov 30 13:56:39 combo kernel: Out of Memory: Killed process 8838 (python).
+Dec  1 16:39:31 combo ftpd[17186]: connection from 69.66.196.20 (mnpl-00-1044.dsl.iowatelecom.net) at Thu Dec  1 16:39:31 2005
+Dec  1 20:05:16 combo kernel: Out of Memory: Killed process 17607 (httpd).
+Dec  1 20:35:25 combo kernel: Out of Memory: Killed process 17654 (httpd).
+Dec  1 20:50:39 combo kernel: Out of Memory: Killed process 17741 (httpd).
+Dec  1 20:55:38 combo kernel: Out of Memory: Killed process 17751 (httpd).
+Dec  2 08:39:43 combo sshd(pam_unix)[20029]: check pass; user unknown
+Dec  2 08:39:43 combo sshd(pam_unix)[20024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Dec  2 09:01:27 combo kernel: Out of Memory: Killed process 20069 (python).
+Dec  2 09:36:47 combo kernel: Out of Memory: Killed process 20182 (python).
+Dec  2 11:37:32 combo kernel: Out of Memory: Killed process 20461 (httpd).
+Dec  2 20:35:21 combo kernel: Out of Memory: Killed process 20860 (httpd).
+Dec  2 22:31:50 combo kernel: Out of Memory: Killed process 21702 (httpd).
+Dec  2 23:15:26 combo kernel: Out of Memory: Killed process 21756 (httpd).
+Dec  2 23:15:46 combo kernel: Out of Memory: Killed process 21790 (httpd).
+Dec  2 23:31:15 combo kernel: Out of Memory: Killed process 21831 (httpd).
+Dec  2 23:35:43 combo kernel: Out of Memory: Killed process 21877 (httpd).
+Dec  2 23:41:20 combo kernel: Out of Memory: Killed process 21911 (httpd).
+Dec  2 23:41:37 combo kernel: Out of Memory: Killed process 21913 (httpd).
+Dec  2 23:42:10 combo kernel: Out of Memory: Killed process 21907 (python).
+Dec  3 00:15:20 combo kernel: Out of Memory: Killed process 21921 (httpd).
+Dec  3 02:20:39 combo kernel: Out of Memory: Killed process 22186 (httpd).
+Dec  3 02:20:50 combo kernel: Out of Memory: Killed process 22257 (httpd).
+Dec  3 02:36:17 combo kernel: Out of Memory: Killed process 22319 (httpd).
+Dec  3 04:06:38 combo kernel: Out of Memory: Killed process 22814 (httpd).
+Dec  3 04:11:49 combo kernel: Out of Memory: Killed process 23792 (httpd).
+Dec  3 05:00:30 combo kernel: Out of Memory: Killed process 23798 (httpd).
+Dec  3 05:27:36 combo kernel: Out of Memory: Killed process 24257 (httpd).
+Dec  3 05:31:16 combo kernel: Out of Memory: Killed process 24274 (httpd).
+Dec  3 05:32:16 combo kernel: Out of Memory: Killed process 24279 (httpd).
+Dec  3 05:39:55 combo kernel: Out of Memory: Killed process 24316 (httpd).
+Dec  3 05:40:03 combo kernel: Out of Memory: Killed process 24317 (httpd).
+Dec  3 07:55:18 combo ftpd[24632]: connection from 64.73.224.182 (64-73-224-182.cust.telepacific.net) at Sat Dec  3 07:55:18 2005
+Dec  3 07:55:18 combo ftpd[24629]: connection from 64.73.224.182 (64-73-224-182.cust.telepacific.net) at Sat Dec  3 07:55:18 2005
+Dec  3 07:55:19 combo ftpd[24643]: connection from 64.73.224.182 (64-73-224-182.cust.telepacific.net) at Sat Dec  3 07:55:19 2005
+Dec  3 08:36:09 combo kernel: Out of Memory: Killed process 24741 (httpd).
+Dec  3 08:37:34 combo kernel: Out of Memory: Killed process 24740 (python).
+Dec  3 08:41:30 combo kernel: Out of Memory: Killed process 24764 (httpd).
+Dec  3 09:46:33 combo kernel: Out of Memory: Killed process 24903 (httpd).
+Dec  3 10:01:08 combo kernel: Out of Memory: Killed process 24933 (httpd).
+Dec  3 10:51:34 combo kernel: Out of Memory: Killed process 25083 (httpd).
+Dec  3 11:00:35 combo kernel: Out of Memory: Killed process 25089 (httpd).
+Dec  3 11:00:40 combo kernel: Out of Memory: Killed process 25090 (httpd).
+Dec  3 11:06:09 combo kernel: Out of Memory: Killed process 25124 (httpd).
+Dec  3 11:20:38 combo kernel: Out of Memory: Killed process 25162 (httpd).
+Dec  3 11:25:21 combo kernel: Out of Memory: Killed process 25189 (httpd).
+Dec  3 11:25:38 combo kernel: Out of Memory: Killed process 25190 (httpd).
+Dec  3 11:27:17 combo kernel: Out of Memory: Killed process 25204 (httpd).
+Dec  3 11:35:19 combo kernel: Out of Memory: Killed process 25231 (httpd).
+Dec  3 11:55:38 combo kernel: Out of Memory: Killed process 25279 (httpd).
+Dec  3 12:01:49 combo kernel: Out of Memory: Killed process 25318 (httpd).
+Dec  3 12:21:20 combo kernel: Out of Memory: Killed process 25385 (httpd).
+Dec  3 12:21:34 combo kernel: Out of Memory: Killed process 25378 (python).
+Dec  3 12:40:42 combo kernel: Out of Memory: Killed process 25389 (httpd).
+Dec  3 12:50:27 combo kernel: Out of Memory: Killed process 25437 (httpd).
+Dec  3 13:01:18 combo kernel: Out of Memory: Killed process 25471 (httpd).
+Dec  3 13:02:03 combo kernel: Out of Memory: Killed process 25478 (httpd).
+Dec  3 13:21:43 combo kernel: Out of Memory: Killed process 25547 (httpd).
+Dec  3 13:40:41 combo kernel: Out of Memory: Killed process 25551 (httpd).
+Dec  3 14:11:19 combo kernel: Out of Memory: Killed process 25663 (httpd).
+Dec  3 14:11:57 combo kernel: Out of Memory: Killed process 25667 (httpd).
+Dec  3 14:12:28 combo kernel: Out of Memory: Killed process 25670 (httpd).
+Dec  3 14:15:51 combo kernel: Out of Memory: Killed process 25675 (httpd).
+Dec  3 14:30:44 combo kernel: Out of Memory: Killed process 25737 (httpd).
+Dec  3 14:45:21 combo kernel: Out of Memory: Killed process 25754 (httpd).
+Dec  3 15:20:33 combo kernel: Out of Memory: Killed process 25868 (httpd).
+Dec  3 15:26:37 combo kernel: Out of Memory: Killed process 25910 (httpd).
+Dec  3 15:30:59 combo kernel: Out of Memory: Killed process 25934 (httpd).
+Dec  3 15:35:59 combo kernel: Out of Memory: Killed process 25940 (httpd).
+Dec  3 15:40:42 combo kernel: Out of Memory: Killed process 25965 (httpd).
+Dec  3 16:16:09 combo kernel: Out of Memory: Killed process 26020 (httpd).
+Dec  3 16:19:10 combo sshd(pam_unix)[26106]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ap00.atfdc2-unet.ocn.ne.jp
+Dec  3 16:22:07 combo kernel: Out of Memory: Killed process 26133 (httpd).
+Dec  3 16:22:12 combo kernel: Out of Memory: Killed process 26134 (httpd).
+Dec  3 16:26:00 combo kernel: Out of Memory: Killed process 26138 (httpd).
+Dec  3 16:40:23 combo kernel: Out of Memory: Killed process 26199 (httpd).
+Dec  3 16:41:18 combo kernel: Out of Memory: Killed process 26219 (httpd).
+Dec  3 17:15:19 combo kernel: Out of Memory: Killed process 26252 (httpd).
+Dec  3 17:25:44 combo kernel: Out of Memory: Killed process 26304 (httpd).
+Dec  3 17:31:02 combo kernel: Out of Memory: Killed process 26351 (httpd).
+Dec  3 17:35:58 combo kernel: Out of Memory: Killed process 26356 (httpd).
+Dec  3 17:37:47 combo kernel: Out of Memory: Killed process 26378 (httpd).
+Dec  3 17:46:54 combo kernel: Out of Memory: Killed process 26411 (httpd).
+Dec  3 17:47:27 combo kernel: Out of Memory: Killed process 26413 (httpd).
+Dec  3 17:52:08 combo kernel: Out of Memory: Killed process 26439 (httpd).
+Dec  3 17:55:14 combo kernel: Out of Memory: Killed process 26455 (httpd).
+Dec  3 20:20:45 combo kernel: Out of Memory: Killed process 26472 (httpd).
+Dec  3 20:35:20 combo kernel: Out of Memory: Killed process 26475 (httpd).
+Dec  3 20:45:21 combo kernel: Out of Memory: Killed process 26738 (httpd).
+Dec  3 21:00:52 combo kernel: Out of Memory: Killed process 26784 (httpd).
+Dec  3 21:10:30 combo kernel: Out of Memory: Killed process 26786 (httpd).
+Dec  3 21:12:23 combo kernel: Out of Memory: Killed process 26826 (httpd).
+Dec  3 21:20:36 combo kernel: Out of Memory: Killed process 26843 (httpd).
+Dec  3 21:26:50 combo kernel: Out of Memory: Killed process 26874 (httpd).
+Dec  3 21:35:25 combo kernel: Out of Memory: Killed process 26903 (httpd).
+Dec  3 21:35:31 combo kernel: Out of Memory: Killed process 26904 (httpd).
+Dec  3 21:35:52 combo kernel: Out of Memory: Killed process 26906 (httpd).
+Dec  3 21:37:57 combo kernel: Out of Memory: Killed process 26927 (httpd).
+Dec  3 21:41:55 combo kernel: Out of Memory: Killed process 26951 (httpd).
+Dec  3 21:46:45 combo kernel: Out of Memory: Killed process 26972 (httpd).
+Dec  3 21:47:35 combo kernel: Out of Memory: Killed process 26975 (httpd).
+Dec  3 21:52:20 combo kernel: Out of Memory: Killed process 26999 (httpd).
+Dec  3 21:54:31 combo kernel: Out of Memory: Killed process 27010 (httpd).
+Dec  3 21:56:20 combo kernel: Out of Memory: Killed process 21792 (sendmail).
+Dec  4 02:15:24 combo kernel: Out of Memory: Killed process 27025 (httpd).
+Dec  4 03:00:24 combo kernel: Out of Memory: Killed process 27558 (httpd).
+Dec  4 03:16:24 combo kernel: Out of Memory: Killed process 27598 (httpd).
+Dec  4 03:21:54 combo kernel: Out of Memory: Killed process 27631 (httpd).
+Dec  4 03:27:31 combo kernel: Out of Memory: Killed process 27652 (httpd).
+Dec  4 03:28:19 combo kernel: Out of Memory: Killed process 27658 (httpd).
+Dec  4 03:32:54 combo kernel: Out of Memory: Killed process 27687 (httpd).
+Dec  4 03:38:23 combo kernel: Out of Memory: Killed process 27714 (httpd).
+Dec  4 03:40:03 combo kernel: Out of Memory: Killed process 27723 (httpd).
+Dec  4 03:41:15 combo kernel: Out of Memory: Killed process 27735 (httpd).
+Dec  4 03:48:54 combo kernel: Out of Memory: Killed process 27424 (sendmail).
+Dec  4 03:49:06 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Dec  4 03:49:11 combo kernel: Call Trace:
+Dec  4 03:49:11 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Dec  4 03:49:12 combo kernel:  [<021364a7>] handle_mm_fault+0x9d/0xe2
+Dec  4 03:49:16 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Dec  4 03:49:16 combo kernel:  [<021364c6>] handle_mm_fault+0xbc/0xe2
+Dec  4 03:49:18 combo kernel:  [<02107352>] do_IRQ+0x134/0x169
+Dec  4 04:11:44 combo kernel: Out of Memory: Killed process 28455 (httpd).
+Dec  4 04:15:49 combo kernel: Out of Memory: Killed process 28458 (httpd).
+Dec  4 04:17:28 combo kernel: Out of Memory: Killed process 28584 (httpd).
+Dec  4 04:18:05 combo kernel: Out of Memory: Killed process 28588 (httpd).
+Dec  4 04:18:10 combo kernel: Out of Memory: Killed process 28589 (httpd).
+Dec  4 04:30:10 combo kernel: Out of Memory: Killed process 30214 (httpd).
+Dec  4 04:31:58 combo kernel: Out of Memory: Killed process 30243 (httpd).
+Dec  4 04:32:38 combo kernel: Out of Memory: Killed process 30276 (httpd).
+Dec  4 04:35:36 combo kernel: Out of Memory: Killed process 30320 (httpd).
+Dec  4 04:38:02 combo kernel: Out of Memory: Killed process 30353 (httpd).
+Dec  4 04:38:49 combo kernel: Out of Memory: Killed process 30369 (httpd).
+Dec  4 04:42:58 combo kernel: Out of Memory: Killed process 30598 (httpd).
+Dec  4 04:43:05 combo kernel: Out of Memory: Killed process 30603 (httpd).
+Dec  4 04:45:20 combo kernel: Out of Memory: Killed process 30634 (httpd).
+Dec  4 04:45:57 combo kernel: Out of Memory: Killed process 30395 (python).
+Dec  4 04:47:20 combo kernel: Out of Memory: Killed process 30757 (httpd).
+Dec  4 04:47:25 combo kernel: Out of Memory: Killed process 30758 (httpd).
+Dec  4 04:51:23 combo kernel: Out of Memory: Killed process 6725 (httpd).
+Dec  4 04:54:02 combo kernel: Out of Memory: Killed process 6756 (httpd).
+Dec  4 05:00:50 combo kernel: Out of Memory: Killed process 8565 (httpd).
+Dec  4 05:01:37 combo kernel: Out of Memory: Killed process 8590 (httpd).
+Dec  4 05:01:44 combo kernel: Out of Memory: Killed process 8593 (httpd).
+Dec  4 05:02:45 combo kernel: Out of Memory: Killed process 8609 (httpd).
+Dec  4 05:02:59 combo kernel: Out of Memory: Killed process 8611 (httpd).
+Dec  4 05:03:14 combo kernel: Out of Memory: Killed process 8134 (mrtg).
+Dec  4 06:00:27 combo kernel: Out of Memory: Killed process 25792 (httpd).
+Dec  4 06:06:20 combo kernel: Out of Memory: Killed process 32386 (httpd).
+Dec  4 06:10:55 combo kernel: Out of Memory: Killed process 32390 (httpd).
+Dec  4 06:11:25 combo kernel: Out of Memory: Killed process 32411 (httpd).
+Dec  4 06:18:30 combo kernel: Out of Memory: Killed process 32444 (httpd).
+Dec  4 06:40:38 combo kernel: Out of Memory: Killed process 32507 (httpd).
+Dec  4 06:47:25 combo kernel: Out of Memory: Killed process 32585 (httpd).
+Dec  4 06:47:36 combo kernel: Out of Memory: Killed process 32584 (httpd).
+Dec  4 06:51:42 combo kernel: Out of Memory: Killed process 32621 (httpd).
+Dec  4 06:54:37 combo kernel: Out of Memory: Killed process 32645 (httpd).
+Dec  4 06:58:49 combo kernel: Out of Memory: Killed process 32674 (httpd).
+Dec  4 07:00:04 combo kernel: Out of Memory: Killed process 32683 (httpd).
+Dec  4 07:01:17 combo kernel: Out of Memory: Killed process 32698 (httpd).
+Dec  4 07:03:59 combo kernel: Out of Memory: Killed process 32720 (httpd).
+Dec  4 07:04:30 combo kernel: Out of Memory: Killed process 32725 (httpd).
+Dec  4 07:05:02 combo kernel: Out of Memory: Killed process 32729 (httpd).
+Dec  4 07:05:58 combo kernel: Out of Memory: Killed process 32740 (httpd).
+Dec  4 07:07:15 combo kernel: Out of Memory: Killed process 32753 (httpd).
+Dec  4 07:15:16 combo kernel: Out of Memory: Killed process 323 (httpd).
+Dec  4 07:16:42 combo kernel: Out of Memory: Killed process 335 (httpd).
+Dec  4 07:16:47 combo kernel: Out of Memory: Killed process 336 (httpd).
+Dec  4 07:17:07 combo kernel: Out of Memory: Killed process 339 (httpd).
+Dec  4 07:17:23 combo kernel: Out of Memory: Killed process 32280 (updatedb).
+Dec  4 16:45:28 combo kernel: Out of Memory: Killed process 1276 (httpd).
+Dec  4 16:46:01 combo kernel: Out of Memory: Killed process 1278 (httpd).
+Dec  4 16:46:52 combo kernel: Out of Memory: Killed process 1288 (httpd).
+Dec  4 16:47:39 combo kernel: Out of Memory: Killed process 1295 (httpd).
+Dec  4 16:51:16 combo kernel: Out of Memory: Killed process 1310 (httpd).
+Dec  4 16:51:42 combo kernel: Out of Memory: Killed process 1313 (httpd).
+Dec  4 17:11:51 combo kernel: Out of Memory: Killed process 1388 (httpd).
+Dec  4 17:16:16 combo kernel: Out of Memory: Killed process 1405 (httpd).
+Dec  4 17:19:35 combo kernel: Out of Memory: Killed process 1432 (httpd).
+Dec  4 17:26:58 combo kernel: Out of Memory: Killed process 1463 (httpd).
+Dec  4 17:27:56 combo kernel: Out of Memory: Killed process 1469 (httpd).
+Dec  4 17:30:16 combo kernel: Out of Memory: Killed process 1488 (httpd).
+Dec  4 17:30:51 combo kernel: Out of Memory: Killed process 1497 (httpd).
+Dec  4 17:37:17 combo kernel: Out of Memory: Killed process 1518 (httpd).
+Dec  4 17:38:46 combo kernel: Out of Memory: Killed process 1525 (httpd).
+Dec  4 17:38:52 combo kernel: Out of Memory: Killed process 1526 (httpd).
+Dec  4 17:39:52 combo kernel: Out of Memory: Killed process 1532 (httpd).
+Dec  4 17:40:34 combo kernel: Out of Memory: Killed process 1537 (httpd).
+Dec  4 17:41:26 combo kernel: Out of Memory: Killed process 1551 (httpd).
+Dec  4 17:41:36 combo kernel: Out of Memory: Killed process 1553 (httpd).
+Dec  4 17:42:17 combo kernel: Out of Memory: Killed process 993 (sendmail).
+Dec  4 17:42:22 combo kernel: Out of Memory: Killed process 1080 (sendmail).
+Dec  4 19:20:28 combo kernel: Out of Memory: Killed process 1562 (httpd).
+Dec  4 19:35:50 combo kernel: Out of Memory: Killed process 1789 (httpd).
+Dec  4 19:55:30 combo kernel: Out of Memory: Killed process 1835 (httpd).
+Dec  4 20:23:10 combo kernel: Out of Memory: Killed process 1937 (httpd).
+Dec  4 20:24:05 combo kernel: Out of Memory: Killed process 1944 (httpd).
+Dec  4 20:24:11 combo kernel: Out of Memory: Killed process 1945 (httpd).
+Dec  4 20:24:16 combo kernel: Out of Memory: Killed process 1946 (httpd).
+Dec  4 20:28:51 combo kernel: Out of Memory: Killed process 1966 (httpd).
+Dec  4 20:29:02 combo kernel: Out of Memory: Killed process 1967 (httpd).
+Dec  4 20:29:45 combo kernel: Out of Memory: Killed process 1970 (httpd).
+Dec  4 20:43:07 combo kernel: Out of Memory: Killed process 2052 (httpd).
+Dec  4 20:43:24 combo kernel: Out of Memory: Killed process 2053 (httpd).
+Dec  4 20:45:03 combo kernel: Out of Memory: Killed process 2064 (httpd).
+Dec  4 20:45:51 combo kernel: Out of Memory: Killed process 2073 (httpd).
+Dec  4 20:46:41 combo kernel: Out of Memory: Killed process 2039 (mrtg).
+Dec  4 20:46:55 combo kernel: Out of Memory: Killed process 24304 (sendmail).
+Dec  5 03:45:42 combo kernel: Out of Memory: Killed process 2824 (httpd).
+Dec  5 03:45:53 combo kernel: Out of Memory: Killed process 2830 (httpd).
+Dec  5 03:46:19 combo kernel: Out of Memory: Killed process 2833 (httpd).
+Dec  5 03:47:35 combo kernel: Out of Memory: Killed process 2842 (httpd).
+Dec  5 04:03:04 combo su(pam_unix)[3214]: session closed for user cyrus
+Dec  5 04:10:33 combo kernel: Out of Memory: Killed process 3688 (httpd).
+Dec  5 04:11:28 combo kernel: Out of Memory: Killed process 3700 (httpd).
+Dec  5 05:10:47 combo kernel: Out of Memory: Killed process 4596 (httpd).
+Dec  5 05:11:23 combo kernel: Out of Memory: Killed process 4609 (httpd).
+Dec  5 05:15:20 combo su(pam_unix)[4638]: session opened for user news by (uid=0)
+Dec  5 07:20:53 combo kernel: Out of Memory: Killed process 4892 (httpd).
+Dec  5 07:40:55 combo kernel: Out of Memory: Killed process 4962 (httpd).
+Dec  5 07:46:23 combo kernel: Out of Memory: Killed process 4992 (httpd).
+Dec  5 07:50:25 combo kernel: Out of Memory: Killed process 5006 (httpd).
+Dec  5 07:51:32 combo kernel: Out of Memory: Killed process 5017 (httpd).
+Dec  5 07:52:45 combo kernel: Out of Memory: Killed process 5021 (httpd).
+Dec  5 07:55:19 combo kernel: Out of Memory: Killed process 5033 (httpd).
+Dec  5 07:56:36 combo kernel: Out of Memory: Killed process 4869 (sendmail).
+Dec  5 07:56:42 combo kernel: Out of Memory: Killed process 5014 (mrtg).
+Dec  5 09:00:13 combo kernel: Out of Memory: Killed process 5048 (httpd).
+Dec  5 10:32:01 combo kernel: Out of Memory: Killed process 5405 (httpd).
+Dec  5 10:37:32 combo kernel: Out of Memory: Killed process 5429 (httpd).
+Dec  5 10:42:14 combo kernel: Out of Memory: Killed process 5473 (httpd).
+Dec  5 10:45:38 combo kernel: Out of Memory: Killed process 5482 (httpd).
+Dec  5 10:51:34 combo kernel: Out of Memory: Killed process 5503 (httpd).
+Dec  5 10:51:53 combo kernel: Out of Memory: Killed process 5515 (httpd).
+Dec  5 10:52:20 combo kernel: Out of Memory: Killed process 5517 (httpd).
+Dec  5 10:53:04 combo kernel: Out of Memory: Killed process 5522 (httpd).
+Dec  5 10:55:41 combo kernel: Out of Memory: Killed process 5536 (httpd).
+Dec  5 10:58:27 combo kernel: Out of Memory: Killed process 5556 (httpd).
+Dec  5 11:01:42 combo kernel: Out of Memory: Killed process 5567 (httpd).
+Dec  5 11:03:24 combo kernel: Out of Memory: Killed process 5588 (httpd).
+Dec  5 13:20:50 combo kernel: Out of Memory: Killed process 5876 (httpd).
+Dec  5 13:40:25 combo kernel: Out of Memory: Killed process 5969 (httpd).
+Dec  5 13:44:05 combo kernel: Out of Memory: Killed process 5993 (httpd).
+Dec  5 13:51:54 combo kernel: Out of Memory: Killed process 6031 (httpd).
+Dec  5 13:57:27 combo kernel: Out of Memory: Killed process 6055 (httpd).
+Dec  5 14:00:07 combo kernel: Out of Memory: Killed process 6071 (httpd).
+Dec  5 14:00:42 combo kernel: Out of Memory: Killed process 6081 (httpd).
+Dec  5 15:50:16 combo kernel: Out of Memory: Killed process 6279 (httpd).
+Dec  5 15:50:26 combo kernel: Out of Memory: Killed process 6280 (httpd).
+Dec  5 15:51:11 combo kernel: Out of Memory: Killed process 6291 (python).
+Dec  5 16:00:21 combo kernel: Out of Memory: Killed process 6296 (httpd).
+Dec  5 16:01:05 combo kernel: Out of Memory: Killed process 6302 (httpd).
+Dec  5 16:15:57 combo kernel: Out of Memory: Killed process 6351 (httpd).
+Dec  5 16:16:25 combo kernel: Out of Memory: Killed process 6360 (python).
+Dec  5 16:30:38 combo kernel: Out of Memory: Killed process 6399 (httpd).
+Dec  5 16:38:26 combo kernel: Out of Memory: Killed process 6442 (httpd).
+Dec  5 18:15:22 combo kernel: Out of Memory: Killed process 6638 (httpd).
+Dec  5 18:25:52 combo kernel: Out of Memory: Killed process 6681 (python).
+Dec  5 18:40:46 combo kernel: Out of Memory: Killed process 6714 (python).
+Dec  5 19:15:20 combo kernel: Out of Memory: Killed process 6751 (httpd).
+Dec  5 19:31:41 combo kernel: Out of Memory: Killed process 6843 (httpd).
+Dec  5 21:36:06 combo kernel: Out of Memory: Killed process 7064 (python).
+Dec  5 21:55:17 combo kernel: Out of Memory: Killed process 7093 (httpd).
+Dec  5 22:26:17 combo kernel: Out of Memory: Killed process 7190 (httpd).
+Dec  5 22:26:24 combo kernel: Out of Memory: Killed process 7191 (httpd).
+Dec  5 22:26:57 combo kernel: Out of Memory: Killed process 6901 (sendmail).
+Dec  5 23:35:44 combo kernel: Out of Memory: Killed process 7355 (httpd).
+Dec  5 23:35:57 combo kernel: Out of Memory: Killed process 7354 (python).
+Dec  5 23:50:27 combo kernel: Out of Memory: Killed process 7373 (httpd).
+Dec  6 00:00:16 combo kernel: Out of Memory: Killed process 7395 (httpd).
+Dec  6 00:10:24 combo kernel: Out of Memory: Killed process 7424 (httpd).
+Dec  6 00:20:18 combo kernel: Out of Memory: Killed process 7447 (httpd).
+Dec  6 00:20:54 combo kernel: Out of Memory: Killed process 7464 (httpd).
+Dec  6 00:27:25 combo kernel: Call Trace:
+Dec  6 00:27:35 combo kernel: VM: killing process httpd
+Dec  6 01:40:23 combo kernel: Out of Memory: Killed process 7615 (httpd).
+Dec  6 01:41:07 combo kernel: Out of Memory: Killed process 7626 (httpd).
+Dec  6 02:30:22 combo kernel: Out of Memory: Killed process 7754 (httpd).
+Dec  6 03:35:30 combo kernel: Out of Memory: Killed process 7901 (httpd).
+Dec  6 04:56:52 combo kernel: Out of Memory: Killed process 8786 (httpd).
+Dec  6 05:00:38 combo kernel: Out of Memory: Killed process 8790 (httpd).
+Dec  6 05:01:17 combo kernel: Out of Memory: Killed process 8805 (httpd).
+Dec  6 05:01:26 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Dec  6 05:01:26 combo kernel:  [<0212ebf3>] __alloc_pages+0x274/0x281
+Dec  6 05:01:26 combo kernel:  [<0213f423>] put_user_size+0x29/0x2d
+Dec  6 05:01:41 combo su(pam_unix)[8809]: session opened for user news by (uid=0)
+Dec  6 05:35:21 combo kernel: Out of Memory: Killed process 8931 (httpd).
+Dec  6 05:40:15 combo kernel: Out of Memory: Killed process 8945 (httpd).
+Dec  6 06:00:15 combo kernel: Out of Memory: Killed process 8975 (httpd).
+Dec  6 06:00:33 combo kernel: Out of Memory: Killed process 8982 (python).
+Dec  6 06:16:36 combo kernel: Out of Memory: Killed process 9032 (httpd).
+Dec  6 06:22:01 combo kernel: Out of Memory: Killed process 9055 (httpd).
+Dec  6 06:22:42 combo kernel: Out of Memory: Killed process 9059 (httpd).
+Dec  6 06:23:04 combo kernel: Out of Memory: Killed process 8874 (sendmail).
+Dec  6 07:30:48 combo kernel: Out of Memory: Killed process 9187 (httpd).
+Dec  6 07:55:21 combo kernel: Out of Memory: Killed process 9239 (httpd).
+Dec  6 08:01:47 combo kernel: Out of Memory: Killed process 9255 (python).
+Dec  6 09:20:35 combo kernel: Out of Memory: Killed process 9373 (httpd).
+Dec  6 09:31:21 combo kernel: Out of Memory: Killed process 9463 (httpd).
+Dec  6 09:50:34 combo kernel: Out of Memory: Killed process 9493 (httpd).
+Dec  6 10:45:20 combo kernel: Out of Memory: Killed process 9655 (httpd).
+Dec  6 10:55:39 combo kernel: Out of Memory: Killed process 9675 (httpd).
+Dec  6 11:05:28 combo kernel: Out of Memory: Killed process 9708 (python).
+Dec  6 11:11:00 combo kernel: Out of Memory: Killed process 9724 (httpd).
+Dec  6 11:25:26 combo kernel: Out of Memory: Killed process 9729 (httpd).
+Dec  6 12:00:50 combo kernel: Out of Memory: Killed process 9859 (httpd).
+Dec  6 12:00:55 combo kernel: Out of Memory: Killed process 9855 (python).
+Dec  6 12:20:15 combo udev[10089]: creating device node '/udev/vcsa1'
+Dec  6 12:20:45 combo sshd: sshd -TERM succeeded
+Dec  6 12:21:01 combo spamassassin: spamd shutdown succeeded
+Dec  6 12:21:03 combo smartd: smartd shutdown succeeded
+Dec  6 12:21:22 combo kernel: Kernel log daemon terminating.
+Dec  6 12:22:57 combo kernel: You can enable it with acpi=force
+Dec  6 12:22:58 combo kernel: Console: colour VGA+ 80x25
+Dec  6 12:22:59 combo rpcidmapd: rpc.idmapd startup succeeded
+Dec  6 12:22:59 combo kernel: NET: Registered protocol family 16
+Dec  6 12:22:59 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Dec  6 12:22:59 combo kernel: audit: initializing netlink socket (disabled)
+Dec  6 12:22:59 combo kernel: audit(1133871737.703:0): initialized
+Dec  6 12:23:00 combo netfs: Mounting other filesystems:  succeeded
+Dec  6 12:23:00 combo kernel: ICH: not 100%% native mode: will probe irqs later
+Dec  6 12:23:00 combo apmd[1720]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16ac)
+Dec  6 12:23:00 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Dec  6 12:23:00 combo kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Dec  6 12:23:01 combo kernel: ide-floppy driver 0.99.newide
+Dec  6 12:23:01 combo kernel: usbcore: registered new driver hiddev
+Dec  6 12:23:01 combo smartd[1758]: Device: /dev/hda, found in smartd database.
+Dec  6 12:23:01 combo smartd: smartd startup succeeded
+Dec  6 12:23:12 combo kernel: process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Dec  6 12:23:29 combo gpm[2072]: imps2: Auto-detected intellimouse PS/2
+Dec  6 12:23:30 combo su(pam_unix)[2081]: session opened for user htt by (uid=0)
+Dec  6 12:23:46 combo rc: Starting readahead:  succeeded
+Dec  6 17:24:19 combo named[2298]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Dec  6 17:24:20 combo named[2298]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Dec  6 17:24:20 combo named[2298]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Dec  6 17:24:22 combo named[2298]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Dec  6 17:24:23 combo named[2298]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Dec  6 17:24:28 combo named[2298]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Dec  6 17:24:29 combo named[2298]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Dec  6 12:24:30 combo ntpd[2319]: configure: keyword "authenticate" unknown, line ignored
+Dec  6 17:24:31 combo named[2298]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Dec  6 17:24:33 combo named[2298]: couldn't add command channel ::1#953: not found
+Dec  6 12:24:37 combo udev[2585]: creating device node '/udev/vcs2'
+Dec  6 12:24:37 combo udev[2587]: creating device node '/udev/vcs3'
+Dec  6 12:24:37 combo udev[2588]: creating device node '/udev/vcsa3'
+Dec  6 12:24:41 combo udev[2780]: removing device node '/udev/vcs6'
+Dec  6 12:24:46 combo udev[2825]: creating device node '/udev/vcs4'
+Dec  6 12:24:47 combo udev[2826]: creating device node '/udev/vcs5'
+Dec  6 12:24:53 combo udev[2915]: removing device node '/udev/vcs7'
+Dec  6 12:28:50 combo ntpd[2319]: kernel time sync enabled 0001
+Dec  7 03:28:16 combo sshd(pam_unix)[4507]: check pass; user unknown
+Dec  7 03:28:16 combo sshd(pam_unix)[4508]: check pass; user unknown
+Dec  8 14:10:58 combo sshd(pam_unix)[11662]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=81-233-245-217-no37.tbcn.telia.com  user=root
+Dec  8 14:10:59 combo sshd(pam_unix)[11669]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=81-233-245-217-no37.tbcn.telia.com  user=root
+Dec  8 20:05:15 combo kernel: Out of Memory: Killed process 12358 (mysqld).
+Dec  8 20:50:49 combo kernel: Out of Memory: Killed process 12580 (httpd).
+Dec  8 20:51:24 combo kernel: Out of Memory: Killed process 12581 (httpd).
+Dec  8 22:08:17 combo kernel: Out of Memory: Killed process 12761 (httpd).
+Dec  8 22:08:45 combo kernel: Out of Memory: Killed process 12763 (httpd).
+Dec  9 04:05:01 combo su(pam_unix)[13724]: session closed for user cyrus
+Dec  9 04:58:54 combo kernel: Out of Memory: Killed process 15051 (httpd).
+Dec  9 05:41:51 combo ftpd[15183]: connection from 212.192.157.99 () at Fri Dec  9 05:41:51 2005
+Dec  9 05:41:51 combo ftpd[15192]: connection from 212.192.157.99 () at Fri Dec  9 05:41:51 2005
+Dec  9 08:46:06 combo telnetd[15489]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:00:06 combo telnetd[15530]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:11:49 combo telnetd[15576]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:15:05 combo telnetd[15586]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:40:20 combo login(pam_unix)[2420]: session opened for user root by LOGIN(uid=0)
+Dec  9 09:43:21 combo syslog: syslogd shutdown succeeded
+Dec  9 09:43:25 combo syslog: klogd startup succeeded
+Dec  9 09:45:51 combo udev[15950]: removing device node '/udev/vcsa2'
+Dec  9 09:45:51 combo udev[15959]: creating device node '/udev/vcs2'
+Dec  9 09:51:31 combo telnetd[15862]: ttloop:  read: Connection reset by peer
+Dec  9 09:55:21 combo telnetd[16141]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:03:10 combo telnetd[16178]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:14:08 combo sshd(pam_unix)[16226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16217]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 11:05:50 combo telnetd[15513]: ttloop:  read: Connection timed out
+Dec  9 11:20:37 combo telnetd[15566]: ttloop:  read: Connection timed out
+Dec  9 11:23:06 combo telnetd[15577]: ttloop:  read: Connection timed out
+Dec  9 11:45:50 combo sshd(pam_unix)[16349]: session opened for user root by (uid=0)
+Dec  9 12:02:51 combo telnetd[16128]: ttloop:  read: Connection timed out
+Dec  9 12:06:35 combo telnetd[16142]: ttloop:  read: Connection timed out
+Dec 11 04:12:39 combo su(pam_unix)[22189]: session closed for user news
+Dec 13 04:07:59 combo su(pam_unix)[31373]: session closed for user news
+Dec 14 04:09:18 combo su(pam_unix)[5867]: session opened for user news by (uid=0)
+Dec 16 04:02:05 combo su(pam_unix)[10883]: session opened for user cyrus by (uid=0)
+Dec 22 04:02:05 combo su(pam_unix)[32607]: session opened for user cyrus by (uid=0)
+Dec 23 04:02:05 combo su(pam_unix)[3683]: session opened for user cyrus by (uid=0)
+Dec 25 04:02:07 combo cups: cupsd shutdown succeeded
+Dec 25 04:07:48 combo su(pam_unix)[10427]: session opened for user news by (uid=0)
+Dec 28 04:09:27 combo su(pam_unix)[26547]: session closed for user news
+Dec 29 04:07:38 combo su(pam_unix)[29196]: session closed for user news
+Jan  3 04:02:06 combo su(pam_unix)[14623]: session closed for user cyrus
+Jan  3 04:02:07 combo logrotate: ALERT exited abnormally with [1]
+Jan  5 04:02:05 combo su(pam_unix)[20782]: session closed for user cyrus
+Jan  6 15:53:55 combo ftpd[25645]: connection from 84.139.180.196 (p548BB4C4.dip0.t-ipconnect.de) at Fri Jan  6 15:53:55 2006
+Jan  6 15:53:55 combo ftpd[25643]: connection from 84.139.180.196 (p548BB4C4.dip0.t-ipconnect.de) at Fri Jan  6 15:53:55 2006
+Jan  6 15:54:04 combo ftpd[25664]: connection from 84.139.180.196 (p548BB4C4.dip0.t-ipconnect.de) at Fri Jan  6 15:54:04 2006
+Jan  8 16:24:13 combo ftpd[2836]: connection from 66.98.170.19 (www.zajelgate.net) at Sun Jan  8 16:24:13 2006
+Jan  8 16:24:13 combo ftpd[2818]: connection from 66.98.170.19 (www.zajelgate.net) at Sun Jan  8 16:24:13 2006
+Jan  9 17:36:06 combo ftpd[6511]: connection from 60.45.101.89 (p15025-ipadfx01yosida.nagano.ocn.ne.jp) at Mon Jan  9 17:36:06 2006
+Jan  9 17:36:39 combo ftpd[6519]: connection from 60.45.101.89 (p15025-ipadfx01yosida.nagano.ocn.ne.jp) at Mon Jan  9 17:36:39 2006
+Jan  9 23:44:50 combo ftpd[7038]: connection from 84.232.2.50 () at Mon Jan  9 23:44:50 2006
+Jan  9 23:44:50 combo ftpd[7040]: connection from 84.232.2.50 () at Mon Jan  9 23:44:50 2006
+Jan  9 23:44:50 combo ftpd[7041]: connection from 84.232.2.50 () at Mon Jan  9 23:44:50 2006
+Jan 10 02:01:01 combo ftpd[7240]: connection from 84.184.10.83 (p54B80A53.dip0.t-ipconnect.de) at Tue Jan 10 02:01:01 2006
+Jan 10 02:01:03 combo ftpd[7248]: connection from 84.184.10.83 (p54B80A53.dip0.t-ipconnect.de) at Tue Jan 10 02:01:03 2006
+Jan 10 10:12:58 combo sshd(pam_unix)[8699]: check pass; user unknown
+Jan 10 14:15:28 combo sshd(pam_unix)[9048]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mailman.ywso.com  user=test
+Jan 11 09:06:57 combo ftpd[15716]: connection from 200.215.8.33 (200-215-8-33.fnsce303.ipd.brasiltelecom.net.br) at Wed Jan 11 09:06:57 2006
+Jan 11 09:06:57 combo ftpd[15703]: connection from 200.215.8.33 (200-215-8-33.fnsce303.ipd.brasiltelecom.net.br) at Wed Jan 11 09:06:57 2006
+Jan 11 09:06:57 combo ftpd[15714]: connection from 200.215.8.33 (200-215-8-33.fnsce303.ipd.brasiltelecom.net.br) at Wed Jan 11 09:06:57 2006
+Jan 11 19:07:14 combo sshd(pam_unix)[16540]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.28.28
+Jan 12 01:56:43 combo ftpd[17131]: connection from 82.121.80.235 (AFontenayssB-151-1-34-235.w82-121.abo.wanadoo.fr) at Thu Jan 12 01:56:43 2006
+Jan 12 01:56:43 combo ftpd[17134]: connection from 82.121.80.235 (AFontenayssB-151-1-34-235.w82-121.abo.wanadoo.fr) at Thu Jan 12 01:56:43 2006
+Jan 12 03:43:57 combo sshd(pam_unix)[17339]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Jan 12 03:44:04 combo sshd(pam_unix)[17356]: check pass; user unknown
+Jan 12 04:16:05 combo su(pam_unix)[18112]: session closed for user news
+Jan 12 09:48:58 combo sshd(pam_unix)[18613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Jan 12 09:49:02 combo sshd(pam_unix)[18619]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Jan 13 17:46:34 combo sshd(pam_unix)[22927]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Jan 13 17:47:32 combo sshd(pam_unix)[22957]: check pass; user unknown
+Jan 13 20:11:45 combo sshd(pam_unix)[23191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.170.60  user=root
+Jan 14 02:38:29 combo sshd(pam_unix)[23717]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133
+Jan 14 02:38:30 combo sshd(pam_unix)[23719]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133
+Jan 14 04:09:51 combo su(pam_unix)[24577]: session closed for user news
+Jan 14 06:59:20 combo sshd(pam_unix)[24882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jan 14 07:06:18 combo sshd(pam_unix)[24914]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jan 14 16:54:44 combo sshd(pam_unix)[25752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net
+Jan 14 16:54:44 combo sshd(pam_unix)[25753]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net
+Jan 14 16:54:44 combo sshd(pam_unix)[25760]: check pass; user unknown
+Jan 14 16:54:44 combo sshd(pam_unix)[25762]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-220-228-117-138.nh.sparqnet.net
+Jan 14 18:23:11 combo ftpd[25903]: connection from 211.107.232.1 () at Sat Jan 14 18:23:11 2006
+Jan 14 19:03:38 combo sshd(pam_unix)[25981]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=alternativadigital.inext.net.mx  user=test
+Jan 15 05:10:02 combo sshd(pam_unix)[31710]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=connect.borran.com  user=adm
+Jan 15 16:52:59 combo sshd(pam_unix)[300]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 16 00:23:01 combo sshd(pam_unix)[955]: check pass; user unknown
+Jan 16 00:23:21 combo sshd(pam_unix)[959]: check pass; user unknown
+Jan 16 00:23:21 combo sshd(pam_unix)[959]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.133.4.220
+Jan 16 04:52:27 combo sshd(pam_unix)[2117]: check pass; user unknown
+Jan 16 04:52:27 combo sshd(pam_unix)[2123]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 16 04:55:01 combo sshd(pam_unix)[2130]: check pass; user unknown
+Jan 16 04:56:52 combo sshd(pam_unix)[2161]: check pass; user unknown
+Jan 16 04:56:52 combo sshd(pam_unix)[2158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 16 04:58:38 combo sshd(pam_unix)[2177]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 16 04:58:39 combo sshd(pam_unix)[2185]: check pass; user unknown
+Jan 16 04:58:39 combo sshd(pam_unix)[2187]: check pass; user unknown
+Jan 16 04:58:39 combo sshd(pam_unix)[2191]: check pass; user unknown
+Jan 16 12:39:28 combo sshd(pam_unix)[2869]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Jan 16 12:39:28 combo sshd(pam_unix)[2866]: check pass; user unknown
+Jan 16 12:54:13 combo sshd(pam_unix)[2897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Jan 16 12:54:16 combo sshd(pam_unix)[2911]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Jan 17 04:13:45 combo su(pam_unix)[5733]: session closed for user news
+Jan 17 06:39:23 combo sshd(pam_unix)[6001]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Jan 17 10:46:54 combo sshd(pam_unix)[6383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Jan 18 04:34:14 combo sshd(pam_unix)[8689]: check pass; user unknown
+Jan 18 04:34:15 combo sshd(pam_unix)[8699]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Jan 18 12:42:02 combo ftpd[9383]: connection from 83.214.87.61 () at Wed Jan 18 12:42:02 2006
+Jan 18 12:42:02 combo ftpd[9387]: connection from 83.214.87.61 () at Wed Jan 18 12:42:02 2006
+Jan 18 15:35:48 combo sshd(pam_unix)[9635]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=24.75.10.188  user=root
+Jan 19 02:44:06 combo sshd(pam_unix)[10541]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.57.24  user=root
+Jan 19 04:13:51 combo sshd(pam_unix)[12259]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Jan 19 04:16:53 combo su(pam_unix)[12273]: session opened for user news by (uid=0)
+Jan 19 05:15:04 combo ftpd[12402]: connection from 83.214.87.61 () at Thu Jan 19 05:15:04 2006
+Jan 19 09:30:59 combo sshd(pam_unix)[12767]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Jan 19 13:29:56 combo ftpd[13104]: connection from 200.113.123.186 (113-123-186.ded.tie.cl) at Thu Jan 19 13:29:56 2006
+Jan 19 13:29:56 combo ftpd[13114]: connection from 200.113.123.186 (113-123-186.ded.tie.cl) at Thu Jan 19 13:29:56 2006
+Jan 19 14:55:26 combo sshd(pam_unix)[13236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jan 19 14:55:27 combo sshd(pam_unix)[13239]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jan 19 14:55:27 combo sshd(pam_unix)[13240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jan 20 01:54:53 combo sshd(pam_unix)[14158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Jan 20 01:55:49 combo sshd(pam_unix)[14188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Jan 20 03:16:51 combo sshd(pam_unix)[14307]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Jan 20 11:27:10 combo sshd(pam_unix)[15779]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Jan 22 05:23:19 combo sshd(pam_unix)[24892]: check pass; user unknown
+Jan 22 05:23:20 combo sshd(pam_unix)[24895]: check pass; user unknown
+Jan 22 16:37:16 combo sshd(pam_unix)[25828]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.113.52  user=root
+Jan 22 20:01:14 combo sshd(pam_unix)[26136]: check pass; user unknown
+Jan 22 20:01:14 combo sshd(pam_unix)[26138]: check pass; user unknown
+Jan 22 20:01:14 combo sshd(pam_unix)[26137]: check pass; user unknown
+Jan 22 20:01:14 combo sshd(pam_unix)[26139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.75.233.249
+Jan 22 20:01:14 combo sshd(pam_unix)[26148]: check pass; user unknown
+Jan 23 05:28:15 combo sshd(pam_unix)[28523]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Jan 23 08:33:01 combo sshd(pam_unix)[28906]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Jan 23 08:43:50 combo sshd(pam_unix)[28938]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 09:34:42 combo sshd(pam_unix)[29033]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 10:06:36 combo ftpd[29105]: connection from 200.113.123.186 (113-123-186.ded.tie.cl) at Mon Jan 23 10:06:36 2006
+Jan 23 10:06:36 combo ftpd[29096]: connection from 200.113.123.186 (113-123-186.ded.tie.cl) at Mon Jan 23 10:06:36 2006
+Jan 23 10:13:47 combo sshd(pam_unix)[29117]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 10:13:47 combo sshd(pam_unix)[29127]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 11:37:03 combo sshd(pam_unix)[29274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 13:29:33 combo sshd(pam_unix)[29490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 23 13:29:33 combo sshd(pam_unix)[29492]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 24 16:40:23 combo sshd(pam_unix)[32592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Jan 25 01:48:27 combo ftpd[943]: connection from 216.19.205.44 (216-19-205-44.getnet.net) at Wed Jan 25 01:48:27 2006
+Jan 25 01:48:27 combo ftpd[932]: connection from 216.19.205.44 (216-19-205-44.getnet.net) at Wed Jan 25 01:48:27 2006
+Jan 25 01:48:27 combo ftpd[926]: connection from 216.19.205.44 (216-19-205-44.getnet.net) at Wed Jan 25 01:48:27 2006
+Jan 26 12:19:57 combo udev[10605]: removing device node '/udev/vcs2'
+Jan 26 12:20:00 combo sshd(pam_unix)[10375]: session closed for user root
+Jan 26 12:20:08 combo FreeWnn: jserver shutdown succeeded
+Jan 26 12:20:16 combo squid[2282]: Squid Parent: child process 2284 exited with status 0
+Jan 26 12:20:28 combo crond: crond shutdown succeeded
+Jan 26 12:22:06 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+Jan 26 12:22:06 combo kernel: audit: enabled (after initialization)
+Jan 26 12:22:07 combo kernel: Failure registering capabilities with the kernel
+Jan 26 12:22:08 combo kernel: Enabling fast FPU save and restore... done.
+Jan 26 12:22:08 combo kernel: PCI: Probing PCI hardware
+Jan 26 12:22:08 combo kernel: audit(1138278081.612:0): initialized
+Jan 26 12:22:09 combo kernel: ICH: IDE controller at PCI slot 0000:00:1f.1
+Jan 26 12:22:09 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Jan 26 12:22:09 combo kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Jan 26 12:22:09 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Jan 26 12:22:09 combo kernel: ide-floppy driver 0.99.newide
+Jan 26 12:22:10 combo smartd[1765]: Device: /dev/hda, opened
+Jan 26 12:22:11 combo kernel: NET: Registered protocol family 1
+Jan 26 12:22:11 combo kernel: NET: Registered protocol family 17
+Jan 26 12:22:13 combo kernel: audit(1138278092.486:112647): item=0 name=/initrd inode=1021 dev=00:00
+Jan 26 12:22:15 combo kernel: audit(1138278101.749:164014): syscall=54 exit=0 a0=4 a1=5404 a2=fef6d168 a3=fef6d168 items=0 pid=594 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=22 fsgid=0
+Jan 26 12:22:17 combo kernel: PCI: Found IRQ 11 for device 0000:00:1f.2
+Jan 26 12:22:17 combo kernel: uhci_hcd 0000:00:1f.2: UHCI Host Controller
+Jan 26 12:22:18 combo kernel: audit(1138296102.617:183467): syscall=195 exit=0 a0=80d028c a1=fefff650 a2=68cffc a3=80d028c items=1 pid=635 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:22:23 combo kernel: audit(1138296104.780:225409): avc:  denied  { check_context } for  pid=720 exe=/sbin/restorecon scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security
+Jan 26 12:22:24 combo kernel: audit(1138296104.852:227147): avc:  denied  { setattr } for  pid=716 exe=/sbin/udev name=device-mapper dev=hda2 ino=283649 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file
+Jan 26 12:22:28 combo kernel: audit(1138296109.324:295942): syscall=10 exit=0 a0=80490b4 a1=fefaf380 a2=fefaf3a0 a3=1 items=1 pid=1123 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:22:30 combo kernel: audit(1138296117.905:349720): item=0 name=/sys/bus/pci/devices/0000:01:0c.0/resource inode=166 dev=00:00
+Jan 26 12:22:30 combo sendmail: sm-client startup succeeded
+Jan 26 12:22:30 combo kernel: audit(1138296118.152:350118): syscall=5 exit=6 a0=806aca9 a1=18800 a2=5fbe83 a3=0 items=1 pid=1263 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:22:40 combo xinetd[2013]: No such internal service: services/stream - DISABLING
+Jan 26 12:22:40 combo kernel: audit(1138296120.316:368744): item=0 name=/udev/fd0 inode=283651 dev=02:00
+Jan 26 12:22:41 combo kernel: audit(1138296123.500:397288): avc:  denied  { create } for  pid=1445 exe=/sbin/arping scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=packet_socket
+Jan 26 12:22:42 combo kernel: audit(1138296123.500:397293): syscall=54 exit=0 a0=3 a1=8933 a2=fef5d950 a3=0 items=0 pid=1445 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:22:42 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jan 26 12:22:43 combo kernel: Bluetooth: HCI device and connection manager initialized
+Jan 26 12:22:43 combo kernel: Bluetooth: RFCOMM ver 1.2
+Jan 26 12:22:44 combo kernel: audit(1138296160.392:589440): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:biff_port_t tclass=udp_socket
+Jan 26 12:22:45 combo kernel: audit(1138296165.211:606989): avc:  denied  { transition } for  pid=2090 exe=/bin/su path=/bin/bash dev=hda2 ino=1044632 scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=process
+Jan 26 12:22:52 combo messagebus: messagebus startup succeeded
+Jan 26 12:23:14 combo kernel: audit(1138296194.865:693309): syscall=197 exit=0 a0=4 a1=feeb7270 a2=68cffc a3=9d49368 items=0 pid=2285 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:23:17 combo named: named startup succeeded
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jan 26 12:23:22 combo ntpd[2309]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Jan 26 12:23:33 combo udev[2496]: creating device node '/udev/vcsa5'
+Jan 26 12:23:46 combo udev[2826]: creating device node '/udev/vcsa3'
+Jan 26 12:23:49 combo kernel: audit(1138296216.366:837154): item=0 name=/udev/vcsa5 inode=283654 dev=07:85
+Jan 26 12:24:00 combo kernel: audit(1138296225.596:965626): syscall=14 exit=0 a0=9e9f968 a1=11b0 a2=0 a3=0 items=1 pid=2417 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:24:01 combo kernel: audit(1138296225.596:965628): item=0 name=/var/gdm/.gdmfifo inode=943272 dev=00:00
+Jan 26 12:53:13 combo kernel: audit(1138297993.375:1376285): item=0 name=/dev/pts/1 inode=3 dev=88:01
+Jan 26 12:53:14 combo kernel: audit(1138297993.581:1376686): avc:  denied  { rlimitinh } for  pid=3130 exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process
+Jan 27 17:31:59 combo sshd(pam_unix)[3324]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Jan 27 17:32:17 combo sshd(pam_unix)[3338]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Jan 27 17:32:18 combo sshd(pam_unix)[3340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Jan 27 17:32:19 combo sshd(pam_unix)[3344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Jan 28 05:01:21 combo sshd(pam_unix)[3369]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h8441253073.dsl.speedlinq.nl  user=root
+Jan 28 21:02:42 combo sshd(pam_unix)[3372]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=test
+Jan 28 21:02:42 combo sshd(pam_unix)[3371]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=test
+Jan 29 22:37:47 combo sshd(pam_unix)[3422]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=julia.arkos.de  user=test
+Jan 30 11:30:55 combo sshd(pam_unix)[3539]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Jan 30 11:30:55 combo sshd(pam_unix)[3549]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Jan 31 04:35:43 combo sshd(pam_unix)[3661]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jan 31 14:44:36 combo ftpd[3728]: connection from 218.242.202.99 () at Tue Jan 31 14:44:36 2006
+Jan 31 14:44:36 combo ftpd[3729]: connection from 218.242.202.99 () at Tue Jan 31 14:44:36 2006
+Jan 31 16:43:41 combo sshd(pam_unix)[3760]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.189.192.156  user=nobody
+Jan 31 18:44:45 combo sshd(pam_unix)[3779]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.100.28.173  user=root
+Jan 31 18:44:54 combo sshd(pam_unix)[3793]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.100.28.173  user=root
+Feb  1 02:06:53 combo sshd(pam_unix)[3846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Feb  1 02:07:02 combo sshd(pam_unix)[3856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Feb  1 02:31:00 combo sshd(pam_unix)[3876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Feb  1 02:31:13 combo sshd(pam_unix)[3894]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Feb  1 09:47:41 combo ftpd[3915]: connection from 81.240.142.171 (171-142.240.81.adsl.skynet.be) at Wed Feb  1 09:47:41 2006
+Feb  1 21:35:59 combo sshd(pam_unix)[3946]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21  user=test
+Feb  1 21:36:00 combo sshd(pam_unix)[3944]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21  user=test
+Feb  2 11:34:17 combo unix_chkpwd[3982]: check pass; user unknown
+Feb  2 12:25:33 combo sshd(pam_unix)[4003]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.136.20.50  user=root
+Feb  5 18:17:36 combo sshd(pam_unix)[4075]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Feb  6 12:09:00 combo ftpd[4181]: connection from 84.5.218.32 () at Mon Feb  6 12:09:00 2006
+Feb  6 12:24:00 combo ftpd[4182]: User unknown timed out after 900 seconds at Mon Feb  6 12:24:00 2006
+Feb  6 12:24:00 combo ftpd[4186]: User unknown timed out after 900 seconds at Mon Feb  6 12:24:00 2006
+Feb  7 19:55:44 combo sshd(pam_unix)[4274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Feb  8 09:25:50 combo sshd(pam_unix)[4292]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Feb  8 09:25:50 combo unix_chkpwd[4313]: check pass; user unknown
+Feb  8 09:26:11 combo sshd(pam_unix)[4324]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Feb  8 18:39:54 combo sshd(pam_unix)[4343]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.166.155.143  user=root
+Feb  9 17:15:08 combo sshd(pam_unix)[4427]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Feb 10 07:33:22 combo sshd(pam_unix)[4518]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.varpalota.hu  user=root
+Feb 10 07:43:21 combo unix_chkpwd[4573]: check pass; user unknown
+Feb 10 15:07:34 combo ftpd[4586]: connection from 208.34.235.251 (mail.nrms.org) at Fri Feb 10 15:07:34 2006
+Feb 10 21:55:35 combo ftpd[4606]: connection from 85.219.160.32 (host-32-160.users.bzimage.us) at Fri Feb 10 21:55:35 2006
+Feb 10 21:55:45 combo ftpd[4608]: connection from 85.219.160.32 (host-32-160.users.bzimage.us) at Fri Feb 10 21:55:45 2006
+Feb 10 21:56:42 combo ftpd[4619]: connection from 85.219.160.32 (host-32-160.users.bzimage.us) at Fri Feb 10 21:56:42 2006
+Feb 11 02:50:41 combo ftpd[4624]: connection from 84.184.71.145 (p54B84791.dip0.t-ipconnect.de) at Sat Feb 11 02:50:41 2006
+Feb 11 20:37:20 combo ftpd[4687]: connection from 204.92.104.1 (dco001.actionhosting.ca) at Sat Feb 11 20:37:20 2006
+Feb 12 13:11:15 combo ftpd[4758]: getpeername (ftpd): Transport endpoint is not connected
+Feb 12 13:11:15 combo ftpd[4747]: getpeername (ftpd): Transport endpoint is not connected
+Feb 12 13:11:15 combo xinetd[4762]: warning: can't get client address: Connection reset by peer
+Feb 12 13:11:15 combo xinetd[4763]: warning: can't get client address: Connection reset by peer
+Feb 12 13:11:15 combo xinetd[4767]: warning: can't get client address: Connection reset by peer
+Feb 12 13:11:15 combo ftpd[4768]: setsockopt (IP_TOS): Operation not supported
+Feb 12 19:42:12 combo ftpd[4782]: connection from 85.187.145.160 () at Sun Feb 12 19:42:12 2006
+Feb 12 19:42:12 combo ftpd[4774]: connection from 85.187.145.160 () at Sun Feb 12 19:42:12 2006
+Feb 13 17:58:11 combo ftpd[4857]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006
+Feb 13 17:58:11 combo ftpd[4858]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006
+Feb 13 17:58:11 combo ftpd[4855]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006
+Feb 13 17:58:11 combo ftpd[4848]: connection from 202.147.190.179 (host202-147-190-179.khi.dancom.net.pk) at Mon Feb 13 17:58:11 2006
+Feb 14 01:42:18 combo sshd(pam_unix)[4887]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=debsnet1.americannetlink.propagation.net
+Feb 14 01:42:18 combo unix_chkpwd[4910]: check pass; user unknown
+Feb 15 14:10:25 combo sshd(pam_unix)[4979]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Feb 16 16:43:15 combo sshd(pam_unix)[5097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wef.hebiace.edu.cn  user=test
+Feb 16 23:52:52 combo sshd(pam_unix)[5122]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Feb 16 23:53:22 combo sshd(pam_unix)[5134]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Feb 16 23:54:01 combo sshd(pam_unix)[5156]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Feb 17 12:08:59 combo sshd(pam_unix)[5219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Feb 17 15:03:33 combo sshd(pam_unix)[5226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=data.nhwsh.tp.edu.tw  user=root
+Feb 18 05:44:27 combo sshd(pam_unix)[5292]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+Feb 19 02:34:59 combo sshd(pam_unix)[5340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200-103-106-42.pvoce700-nrp1.e.brasiltelecom.net.br  user=root
+Feb 19 11:29:53 combo sshd(pam_unix)[5372]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Feb 19 11:29:54 combo unix_chkpwd[5397]: check pass; user unknown
+Feb 19 11:29:58 combo sshd(pam_unix)[5386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Feb 19 21:28:43 combo sshd(pam_unix)[5447]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.96.97.37  user=root
+Feb 20 07:36:03 combo ftpd[5642]: connection from 219.145.93.74 () at Mon Feb 20 07:36:03 2006
+Feb 20 12:14:23 combo sshd(pam_unix)[5700]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Feb 20 12:14:28 combo sshd(pam_unix)[5707]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Feb 22 01:55:44 combo ftpd[5773]: connection from 210.212.240.242 () at Wed Feb 22 01:55:44 2006
+Feb 22 01:55:44 combo ftpd[5765]: connection from 210.212.240.242 () at Wed Feb 22 01:55:44 2006
+Feb 22 01:55:44 combo ftpd[5764]: connection from 210.212.240.242 () at Wed Feb 22 01:55:44 2006
+Feb 22 11:46:37 combo sshd(pam_unix)[5992]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+Feb 22 23:41:37 combo ftpd[6043]: connection from 24.229.9.65 (24.229.9.65.res-cmts.sm.ptd.net) at Wed Feb 22 23:41:37 2006
+Feb 22 23:41:37 combo ftpd[6052]: connection from 24.229.9.65 (24.229.9.65.res-cmts.sm.ptd.net) at Wed Feb 22 23:41:37 2006
+Feb 22 23:41:37 combo ftpd[6053]: connection from 24.229.9.65 (24.229.9.65.res-cmts.sm.ptd.net) at Wed Feb 22 23:41:37 2006
+Feb 23 12:02:26 combo sshd(pam_unix)[6072]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=175.red-80-34-110.staticip.rima-tde.net  user=fax
+Feb 23 13:54:47 combo unix_chkpwd[6099]: check pass; user unknown
+Feb 23 13:54:50 combo unix_chkpwd[6103]: check pass; user unknown
+Feb 23 18:10:48 combo sshd(pam_unix)[6121]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-50-123-66.prtc.net
+Feb 24 05:45:21 combo sshd(pam_unix)[6150]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Feb 24 09:13:32 combo ftpd[6204]: connection from 89.52.108.44 (P6c2c.p.pppool.de) at Fri Feb 24 09:13:32 2006
+Feb 24 10:39:45 combo sshd(pam_unix)[6211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Feb 24 11:16:38 combo sshd(pam_unix)[6251]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Feb 24 20:53:48 combo sshd(pam_unix)[6356]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.14.157.80  user=root
+Feb 24 20:53:48 combo sshd(pam_unix)[6357]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.14.157.80  user=root
+Feb 25 18:33:27 combo ftpd[6491]: connection from 203.118.34.27 () at Sat Feb 25 18:33:27 2006
+Feb 25 18:33:27 combo ftpd[6498]: connection from 203.118.34.27 () at Sat Feb 25 18:33:27 2006
+Feb 26 13:44:03 combo sshd(pam_unix)[6630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.230.128.214  user=nobody
+Feb 26 17:21:22 combo ftpd[6653]: connection from 148.223.155.2 () at Sun Feb 26 17:21:22 2006
+Feb 26 17:21:22 combo ftpd[6661]: connection from 148.223.155.2 () at Sun Feb 26 17:21:22 2006
+Feb 28 01:49:00 combo sshd(pam_unix)[6723]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.buller.hoover.fresno.k12.ca.us  user=root
